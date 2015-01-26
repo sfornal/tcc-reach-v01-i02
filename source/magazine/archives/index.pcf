@@ -3,13 +3,13 @@
 <!DOCTYPE document SYSTEM "http://commons.omniupdate.com/dtd/standard.dtd">
 <document>
 	<!-- ouc:properties -->
-		
+
 
 		<title>Archives</title>
 
 		<metadata>
 			<meta name="Description" content="Tarrant County College Reach Magazine archives. Find older volumes here." />
-			<meta name="Author" content="Tarrant County College Web Communications" />
+			<meta name="Author" content="Tarrant County College" />
 			<meta name="Keywords" content="Reach, Magazine, Archives" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -17,22 +17,42 @@
 	<content>
 
 		<h1>Archives</h1>
-			
+
 		<!-- ouc:div label="archives-lede" group="Everyone" button="814" break="break" -->
-		<!-- ouc:editor csspath="/_resources/ou/editor/mag-archives-lede.css" width="1020" / -->	
+		<!-- ouc:editor csspath="/_resources/ou/editor/mag-archives-lede.css" width="1020" / -->
 			<p>You will find all of the past issues of the TCC Reach magazine here, with links to the complete article text found in the print version. Our goal is to provide all of the content from the TCC Reach print magazine, in an easy to read format that will work with any device.</p>
 		<!-- /ouc:div -->
 
-		<!-- ouc:div label="archive-entries" group="Everyone" button="861" break="break" -->
-		<!-- ouc:editor csspath="/_resources/ou/editor/mag-archives-entries.css" width="1020" / -->
-		<ol class="archives-toc" role="navigation">
+		<!-- ouc:div label="archive-entries" group="Everyone" button="861" break="break" --><!-- ouc:editor csspath="/_resources/ou/editor/mag-archives-entries.css" width="1020"/ -->
+			<ol class="archives-toc">
 				<li class="volume">
-					
-						<img src="/images/magazine/volume-01/TCC-mag-cover.png" alt="TCC Reach Volume 01 Cover Image" />
-						<h2>Volume 1, Summer 2014</h2>
-						<a href="/magazine/volume-01" title="TCC Reach Volume 01">Read this article&hellip;</a>
+					<a title="TCC Reach Volume 01, Issue 02" href="/magazine/volume-01/issue-02">
+						<img src="/images/magazine/volume-01/issue-02/tcc-mag-cover.jpg" alt="TCC Reach Volume 01, Issue 02 Cover Image" />
+					</a>
+
+					<h2>
+						<a title="TCC Reach Volume 01, Issue 02" href="/magazine/volume-01/issue-02">Volume 1, Issue 2<br /><small>Winter 2014</small></a>
+					</h2>
+
+					<p>
+						<a title="TCC Reach Volume 01, Issue 02 Printed version, PDF" href="/magazine/volume-01/issue-02/tcc-reach-magazine-web-v1-i2.pdf">View the print version <small>(PDF, 75MB)</small></a>
+					</p>
 				</li>
-		</ol>
+
+				<li class="volume">
+					<a title="TCC Reach Volume 01, Issue 01" href="/magazine/volume-01">
+						<img src="/images/magazine/volume-01/TCC-mag-cover.png" alt="TCC Reach Volume 01 Cover Image" />
+					</a>
+
+					<h2>
+						<a title="TCC Reach Volume 01" href="/magazine/volume-01">Volume 1, Issue 1<br /><small>Summer 2014</small></a>
+					</h2>
+
+					<p>
+						<a title="TCC Reach Volume 01 Printed version, PDF" href="/magazine/volume-01/tcc-reach-magazine-web-v1.pdf">View the print version <small>(PDF, 75MB)</small></a>
+					</p>
+				</li>
+			</ol>
 		<!-- /ouc:div -->
 	</content>
 </document>
