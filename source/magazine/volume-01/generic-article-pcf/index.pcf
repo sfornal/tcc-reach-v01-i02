@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pcf-stylesheet path="/_resources/xsl/reach-article.xsl" extension="html"?>
+<!DOCTYPE document SYSTEM "http://commons.omniupdate.com/dtd/standard.dtd">
+<document xmlns:ouc="http://omniupdate.com/XSL/Variables">
+	
+	<!-- ouc:properties -->
+		<title>Article Title (Used on page)</title>
+	<!-- /ouc:properties -->
+
+	<config>
+		<!-- ouc:properties -->
+			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">Article subtitle</parameter>
+
+			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">Author Full Name</parameter>
+
+			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">http://placehold.it/900x400.jpg</parameter>
+			
+			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">Header image description</parameter>
+
+			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">Volume x</parameter>
+
+			<parameter name="volume_semester" type="text" group="Everyone" prompt="What semester was this volume released?" alt="Specify the semester that this volume was published, for example Winter 2013">Summer/Winter 20xx</parameter>			
+		<!-- /ouc:properties -->
+	</config>
+
+	<!-- ouc:properties -->
+		<metadata>
+			<meta name="Description" content="Describe the article here in one or two sentences. This will show up in search results." section="Metadata" />
+			<meta name="Author" content="List the actual author of the article here. This will show up in search results." />
+			<meta name="Keywords" content="comma, separated, list, of, key, words" />
+		</metadata>
+	<!-- /ouc:properties -->	
+	
+	<content>
+
+		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
+		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
+			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+
+			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+
+			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+
+			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+
+		<!-- /ouc:div -->
+	</content>
+
+	<sidebar>
+
+		<!-- ouc:div label="sidebar-contents" group="Everyone" button="814" break="break" -->
+		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article-sidebar.css" width="1020" / -->
+
+			<h3>Heading</h3>
+
+			<p>Sidebar contents go here.</p>
+			
+			<p>Use a level 3 (&lt;h3&gt;) heading as the main heading, and use level 4 or 5 as sub- or sub-subheadings, as needed.</p>
+
+			<p>Use an &lt;hr&gt; to add a line divider.</p>
+
+			<p>Use the <strong>Mag-Sidebar-Divider</strong> snippet to make a second sidebar.</p>
+
+			<p>To place an image in the sidebar, simply use a normal image element; the <em>figure snippet</em> is not needed.</p>
+
+		<!-- /ouc:div -->
+
+	</sidebar>
+</document>
+	

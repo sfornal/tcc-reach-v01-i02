@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?pcf-stylesheet path="/_resources/xsl/reach-volume-toc.xsl" extension="html"?>
+<!DOCTYPE document SYSTEM "http://commons.omniupdate.com/dtd/standard.dtd">
+<document xmlns:ouc="http://omniupdate.com/XSL/Variables">
+	
+	<!-- ouc:properties -->
+		<title>Volume 1</title>
+	<!-- /ouc:properties -->
+
+	<config>
+		<!-- ouc:properties -->
+			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">Volume 1</parameter>
+
+			<parameter name="volume_semester" type="text" group="Everyone" prompt="What semester was this volume released?" alt="Specify the semester that this volume was published, for example Winter 2013">Summer 2014</parameter>
+
+			<parameter name="volume_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image"></parameter>
+			
+			<parameter name="volume_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included."></parameter>
+		<!-- /ouc:properties -->
+	</config>
+
+	
+	
+
+	<!-- ouc:properties -->
+		<metadata>
+			<meta name="Description" content="Tarrant County College Reach Magazine archives. Find older volumes here." section="Metadata" />
+			<meta name="Author" content="Tarrant County College Web Communications" />
+			<meta name="Keywords" content="Reach, Magazine, Archives" />
+		</metadata>
+	<!-- /ouc:properties -->
+
+	
+	
+	<content>
+
+		<h1>In This Issue</h1>
+		
+		<!-- ouc:div label="volume_lede" group="Everyone" button="864" break="break" -->
+		<!-- ouc:editor csspath="/_resources/ou/editor/mag-volume-lede.css" width="1020" / -->
+			<p>Welcome to our inaugural issue of REACH Magazine. In this issue you will find that that making &ldquot;Success Within Reach&rdquot; for current and future students lies at the heart of everything we do at TCC. We help our students REACH to achieve what success means to them, and we REACH through our commitment to developing and maintaining a college-going culture, an educated and trained workforce and a nationally recognized institution that generates meaningful economic impact in Tarrant County.
+			</p>
+		<!-- /ouc:div -->
+
+		<!-- ouc:div label="volume_toc" group="Everyone" button="861" break="break" -->
+		<!-- ouc:editor csspath="/_resources/ou/editor/mag-archives-entries.css" width="1020" / -->
+		<ol class="volume-toc" role="navigation">
+			
+			
+				<li>					
+						<img src="/images/magazine/volume-01/Header/1-chancellors-corner.jpg" alt="Chancellor Hadley addresses the room" />
+						<h2>Chancellor's Corner</h2>
+						<p>Chancellor Hadley welcomes you to our inaugural issue of REACH. This issue represents one of many changes we’re making at TCC.</p>
+						<a href="/magazine/volume-01/chancellors-corner">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/2-bright-and-shiny.jpg" alt="New facilities shine in the sun" />
+						<h2>Bright &amp; Shiny</h2>
+						<p>New facilities, construction and programs across TCC’s five campuses.</p>
+						<a href="/magazine/volume-01/bright-and-shiny">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/3-telling-our-story.jpg" alt="Art from the TCC billboard campaign" />
+						<h2>Telling Our Story</h2>
+						<p>TCC moved in an entirely new direction in its integrated advertising and marketing strategies for 2014.</p>
+						<a href="/magazine/volume-01/telling-our-story">Read this article&hellip;</a>
+				</li>
+
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/4-look-whos-here.jpg" alt="Bill Cosby and Chancellor Hadley" />
+						<h2>Look Who's Here</h2>
+						<p>Did you see these celebrities at TCC this year?</p>
+						<a href="/magazine/volume-01/look-whos-here">Read this article&hellip;</a>
+				</li>
+
+				<li class="featured">					
+						<img src="/images/magazine/volume-01/Header/8-are-we-there-yet.jpg" alt="Acheiving the Dream logo" />
+						<h2>Are We There Yet?</h2>
+						<p>Four years of Achieving the Dream. TCC has made tremendous strides in developing programs and policies that have transformed the institution and increased student success.</p>
+						<a href="/magazine/volume-01/are-we-there-yet">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/5-tccs-own-champion.jpg" alt="Liz running to the finish" />
+						<h2>TCC's Own Champ</h2>
+						<p>When Elizabeth ran in her first race at age four, little did she know that years later she would be participating in the Olympic trials.</p>
+						<a href="/magazine/volume-01/tccs-own-champ">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/6-join-the-conversation.jpg" alt="TCC on Social Media" />
+						<h2>Social Media: Join the Conversation</h2>
+						<p>Who’s saying what on social media? Join the conversation!</p>
+						<a href="/magazine/volume-01/join-the-conversation">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/7-instagram-contest.jpg" alt="Instagram contest logo" />
+						<h2>Instagram Contest</h2>
+						<p>Student-submitted photos from TCC’s Weekly Challenge Instagram contest.</p>
+						<a href="/magazine/volume-01/instagram-contest">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/9-the-path-isnt-always-easy.jpg" alt="Kathy Soburn" />
+						<h2>The Path Isn't Always Easy <small>(Part&nbsp;One)</small></h2>
+						<p>Kathy Saburn tells how TCC gave her more than education. It gave her a quality life with a great purpose.</p>
+						<a href="/magazine/volume-01/path-not-easy-part-1">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/10-the-path-isnt-always-easy.jpg" alt="Candice Turner" />
+						<h2>The Path Isn't Always Easy <small>(Part&nbsp;Two)</small></h2>
+						<p>Candice Turner, single mother of three, shares how she never gave up after hitting rock bottom.</p>
+						<a href="/magazine/volume-01/path-not-easy-part-2">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/11-student-scholarship-awards.jpg" alt="A happy student celebrates" />
+						<h2>Student Scholarships &amp; Awards</h2>
+						<p>Three students have been recognized for their leadership and academic achievements, all having ties to Phi Theta Kappa.</p>
+						<a href="/magazine/volume-01/student-scholarship-awards">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/12-everyone-is-college-material.jpg" alt="Brittany Brelsford" />
+						<h2>Everyone is College Material</h2>
+						<p>Brittany Brelsford, TCC nursing student, shares her story and advice for other &ldquot;non-traditional students.&rdquot;</p>
+						<a href="/magazine/volume-01/everyone-is-college-material">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/13-modern-day-fairy-tales.jpg" alt="Popular YA book covers" />
+						<h2>Modern-Day Fairy Tales</h2>
+						<p>The last two decades have witnessed a sharp rise in popularity of dystopian tales. The reason why may be surprising.</p>
+						<a href="/magazine/volume-01/modern-day-fairy-tales">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/14-helping-students-make-the-jump.jpg" alt="The Chancellor" />
+						<h2>Helping Students Make the Jump</h2>
+						<p>TCC and Texas Wesleyan officials announced revised articulation agreements, reaffirming the longstanding partnership.</p>
+						<a href="/magazine/volume-01/helping-students-make-the-jump">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/15-achievement-accellerated.jpg" alt="Word cloud" />
+						<h2>Achievement, Accelerated!</h2>
+						<p>TCC will launch its new accelerated Weekend College this fall. Students who qualify can earn their associates degree in 18 months or less.</p>
+						<a href="/magazine/volume-01/achievement-accelerated">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/16-power-in-partnerships.jpg" alt="People boarding a helicopter" />
+						<h2>There's Power in Partnerships</h2>
+						<p>Read about TCC’s latest work with ISDs, community organizations, local businesses and campus partners.</p>
+						<a href="/magazine/volume-01/power-in-partnerships">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/17-brags.jpg" alt="Awards arrayed on a table" />
+						<h2>Faculty &amp; Staff Brags</h2>
+						<p>TCC faculty and staff are recognized for their 2014 achievements and awards.</p>
+						<a href="/magazine/volume-01/brags">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/18-alumni-profile.jpg" alt="Amanda Nickerson" />
+						<h2>Alumni Profile</h2>
+						<p>A professional journey came unpredictably full circle for TCU administrator Amanda Nickerson, a former transfer student herself.</p>
+						<a href="/magazine/volume-01/alumni-profile">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/19-foundation-donor.jpg" alt="Bill Burns" />
+						<h2>Foundation Donor</h2>
+						<p>Holland-Burns is now the namesake of a TCC Foundation memorial scholarship in nursing, started by her husband, Bill Burns.</p>
+						<a href="/magazine/volume-01/foundation-donor">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/20-graduation.jpg" alt="Graduation regalia" />
+						<h2>Graduation</h2>
+						<p>View photos and highlights from TCC’s May 2014 graduation, as 5,734 graduates embarked on new paths.</p>
+						<a href="/magazine/volume-01/graduation">Read this article&hellip;</a>
+				</li>
+						
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/21-graduation-cap-contest.jpg" alt="Graduation cap decorating" />
+						<h2>Graduation Cap Contest</h2>
+						<p>Winning photos from TCC’s “Show us your Graduation Caps!” photo contest.</p>
+						<a href="/magazine/volume-01/graduation-cap-contest">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/22-success-by-the-numbers.jpg" alt="Success by the Numbers logo" />
+						<h2>Success by the Numbers</h2>
+						<p>Check out this infographic detailing some of the amazing statictics about our students.</p>
+						<a href="/magazine/volume-01/success-by-the-numbers">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/23-foundation.jpg" alt="Foundation people" />
+						<h2>Foundation</h2>
+						<p>Photos from the annual Bolen Math Competition Awards and Scholarship Recognition Dinner.</p>
+						<a href="/magazine/volume-01/foundation">Read this article&hellip;</a>
+				</li>
+				
+				<li>
+					
+						<img src="/images/magazine/volume-01/Header/24-foundation-donor-list.jpg" alt="Foundation logo" />
+						<h2>Foundation Donor List</h2>
+						<p>View a list of the 2013 gifts, grants and scholarships to the TCC Foundation.</p>
+						<a href="/magazine/volume-01/foundation-donor-list">Read this article&hellip;</a>
+				</li>
+
+				<li>						
+							<img src="/images/magazine/volume-01/TCC-mag-cover.png" alt="The TCC Reach Volume 01 Cover" />
+							<h2>The Story Behind the Stories</h2>
+							<p>Find out how the intricate cover image of the print edition was made, using hundreds of candid photos from around TCC.</p>
+							<a href="/magazine/volume-01/story-behind-the-stories">Read this article&hellip;</a>
+					</li>
+		</ol>
+		<!-- /ouc:div -->
+	</content>
+</document>
+	

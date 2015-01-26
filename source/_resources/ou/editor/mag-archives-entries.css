@@ -1,0 +1,46 @@
+@import url('/_resources/css/tcc-reach.css');
+
+html {
+	background-color: white;
+}
+
+body {
+	margin: 100px 60px;
+
+	font-family: 'schola', serif;
+	line-height: 1.4;
+}
+
+body:before {
+	content: 'Add a new item using the Snippet menu. Edit the inserted content.';
+	display: block;
+	font-family: 'schola-bold', serif;
+	font-size: 1.8em;
+	color: #e8e8e8;
+}
+
+li {
+	margin: 1em 0;
+	display: block;
+}
+
+li img {
+	max-width: 300px;
+	display: block;
+	border: 1px solid transparent;
+	vertical-align: top;
+} 
+
+li h2 {
+	margin: 8px 0 8px 0;
+	line-height: 1.2;
+	font-size: 1.6em;
+	padding: 0 20px;
+}
+
+li p {
+	padding: 0 20px;
+	margin-top: 0;
+	font-size: 1.0em;
+	line-height: 1.2;
+}

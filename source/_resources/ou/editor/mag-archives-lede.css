@@ -1,0 +1,17 @@
+@import url('/_resources/css/tcc-reach.css');
+
+html {
+	background-color: white;
+	background-image: url('/_resources/ou/editor/archive-bg.jpg');
+	background-position: top left;
+	background-repeat: no-repeat;
+}
+
+body {
+	width: 960px;
+	
+	margin: 390px 30px 40px 30px;
+
+	font-family: 'schola', serif;
+	line-height: 1.4;
+}
