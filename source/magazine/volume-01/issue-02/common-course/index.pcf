@@ -4,25 +4,25 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Creating Campus Consistency</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
 			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
+				TCC Moves to Common Course Materials
 			</parameter>
 
 			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
+				Rhonda Aghamalian
 			</parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/7-common-course.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				A Kindle e-reader leans on a pile of traditional books
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +37,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="The price of a college education is now even more affordable, thanks to a District-wide change to offer common course materials." section="Metadata" />
+			<meta name="Author" content="Rhonda Aghamalian" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,13 +47,29 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+			<p>The price of a college education is now even more affordable for TCC students, thanks to a District-wide change to offer common course materials.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<p>Beginning in Fall 2014, the introduction of common course materials represented an historic move for the College because, for the first time, students were given expanded options for textbooks and other learning materials in multiple print and digital formats &mdash; many of which are considerably less expensive than traditional hardback textbook options. Additionally, it’s the first time that every course number will be associated with a standard set of required learning materials, regardless of instructor or campus.</p>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<p>Bill Coppola, president of TCC Southeast Campus, described the program as &ldquo;unique and innovative&rdquo; in the realm of higher education.</p>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<p>&ldquo;Common course materials resulted from a charge from our Board of Trustees and from the Chancellor to reduce the price of textbooks and help students become more successful,&rdquo; said Coppola, who represented campus presidents on the initiative’s planning committee. &ldquo;A lot of students were sharing books to cut costs, or they were having to choose between buying books and buying groceries. The Chancellor said, ‘Let’s come up with a plan that gets materials in as many students’ hands as we can.’</p>
+
+			<p>&ldquo;The initiative is also part of our ongoing emphasis on the idea that we are one College, one District, with consistency across all of our campuses,&rdquo; Coppola added.</p>
+
+			<p>With the advent of common course materials, &ldquo;textbooks&rdquo; are available in unbound, three-hole-punched, loose-leaf and electronic formats, as well as in rental or purchase options for hardback and softback volumes.</p>
+
+			<p>According to Christine Wake, store manager for the TCC Bookstore at Trinity River, students previously asked, &ldquo;We’re one school, why don’t we use the same books for courses?&rdquo; She says they appreciate various formats available and the savings that result from volume discounts from publishers. &ldquo;Students also like buying all materials from one bookstore, even if they are attending more than one campus.&rdquo;</p>
+
+			<p>&ldquo;Besides the drop in prices, students have reported that they also appreciate the loose-leaf format, because they can take out the chapters they need for that week and have less to carry around,&rdquo; Coppola said.</p>
+
+			<p>The transition to common course materials took more than a year to execute, primarily due to the sheer volume of preparation required. &ldquo;The faculty really needs to be complimented for coming together to make this happen,&rdquo; Coppola explained, &ldquo;because they identified 365 courses for materials re-alignment only last February. Yet we were ready to launch the program by August.&rdquo;</p>
+
+			<p>Plans for the future include the creation of a shared platform for electronic books (currently, the electronic formats vary), and the development of what Coppola described as &ldquo;open educational resources,&rdquo; such as free online textbooks.</p>
+
+			<p>In the meantime, the College is enjoying some unexpected benefits from the transition process, such as the Academic Curriculum Teams that were formed to select the common course materials across all disciplines.</p>
+
+			<p>&ldquo;We modeled the team structure after similar teams on other multi-campus college systems, then tweaked it for our needs,&rdquo; Coppola said. &ldquo;Now, instead of working independently, the faculty gets together on a regular basis for a number of curriculum issues. And that has changed the landscape for our District.&rdquo;</p>
 
 		<!-- /ouc:div -->
 	</content>
