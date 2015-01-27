@@ -4,25 +4,23 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Chancellor's Corner</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
-			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
-			</parameter>
+			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data"></parameter>
 
 			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
+				Chancellor Erma Johnson Hadley
 			</parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/1-chancellor.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				Chancellor Erma Johnson Hadley
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +35,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="Chancellor Hadley welcomes you back after the holiday season and explains why we have been eagerly anticipating 2015 for some time now." section="Metadata" />
+			<meta name="Author" content="Chancellor Erma Johnson Hadley" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,13 +45,17 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+			<p>I hope the new year finds you rested, renewed and rejuvenated for another exciting year! At TCC, we’ve been eagerly anticipating 2015 for some time now. First, it represents the final year of Vision 2015 &mdash; the five-year strategic plan that has guided our planning, shaped our priorities and kept us on course to keep student success at the forefront of everything we do. Second, we are blessed to celebrate 50 years since Tarrant County voters approved the creation of (what began as) Tarrant County Junior College as a critical driver of individual opportunity and enhanced economic viability for our community, and beyond.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<p>This year also represents the end of my fifth year as Chancellor and, as we embark on myriad events and activities to commemorate our 50th anniversary, I’m reflective about the 48 years I have served TCC, beginning as an instructor in 1967 at our Northeast campus. I have been fortunate to see just how many lives TCC has touched, shaped and, in some cases, even saved. We have helped people who never believed they were &ldquo;college material&rdquo; to find their paths and in doing so, to make measurable differences in our community. Through myriad collaborations, we have created and expanded programs to help people from all walks of life achieve the instruction and credentials they need to support their families, and to undergird the Tarrant County economy. We have created a true &ldquo;college-going culture&rdquo; through ongoing programs like Dual Credit, our Early College High Schools (of which, we now have one on each campus), our ever-expanding Distance Learning and our new Weekend College, through which students can earn an associate degree in 18 months or fewer.</p>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<p>And we’ve only just begun. I believe 2015 will represent another milestone year for TCC, particularly as we prepare to open our newest Center of Excellence &mdash; the Center of Excellence for Energy Technology &mdash; at the South campus. We also have begun preparations for a record number of graduates to participate in TCC’s commencement on May 15, and are adding several new interventions (including Advising By Appointment) to ensure we help every student stay in school and achieve their certificate or degree.</p>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<p>This year is one of sincere gratitude for all of us at TCC as we celebrate 50 years of serving, with great honor, the people of our community through the educational resources we provide, the productive partnerships we have established and sustained, the lives we have touched and the economic growth we have helped to power. Throughout the year, we will exhibit our gratitude by sharing our history of service to Tarrant County (including our 50th Anniversary website, which can be accessed at http://www.tccd.edu/50th, and our 50th Anniversary video, which you will find at www.tccd.edu), as well as a special Tarrant County College Foundation event at the Fort Worth Convention Center on March 23, 2015 and a Tarrant County-wide party and celebration on Saturday, August 1, at Panther Island. Through these resources and events, as well as campus-specific programs, we hope to convey that Tarrant County College attributes our successes to the support and commitment of the Tarrant County community. We have been, are, and will be, because you believed in us every step of the way…no matter how great our challenges have been.</p>
+
+			<p>On a personal note, I would like to express my thanks for the support you all have shown me as I have navigated some unexpected health challenges. As TCC is blessed, I am blessed to have your confidence and support. Together, we will tackle the challenges &mdash; and embrace the many wonderful opportunities &mdash; that 2015 has in store.</p>
+
+			<div class="erma-sig"><img src="/images/magazine/volume-01/content/chancellor-signature.png" alt="Erma Johnson Hadley" /> Erma Johnson Hadley<br /> <em>TCC Chancellor</em></div>
 
 		<!-- /ouc:div -->
 	</content>
@@ -63,17 +65,50 @@
 		<!-- ouc:div label="sidebar-contents" group="Everyone" button="814" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article-sidebar.css" width="1020" / -->
 
-			<h3>Heading</h3>
-
-			<p>Sidebar contents go here.</p>
-
-			<p>Use a level 3 (&lt;h3&gt;) heading as the main heading, and use level 4 or 5 as sub- or sub-subheadings, as needed.</p>
-
-			<p>Use an &lt;hr&gt; to add a line divider.</p>
-
-			<p>Use the <strong>Mag-Sidebar-Divider</strong> snippet to make a second sidebar.</p>
-
-			<p>To place an image in the sidebar, simply use a normal image element; the <em>figure snippet</em> is not needed.</p>
+			<p><em>Vol. 1 &middot; No. 2 &middot; Winter 2014</em></p>
+			<p>REACH Magazine is produced semi-annually for the friends, faculty and staff of TCC by the office of Public Relations and&nbsp;Marketing.</p>
+			<hr />
+			<h3>Editor-in-Chief</h3>
+			<h4>Suzanne Cottraux</h4>
+			<p><em>Executive Director of Communications, Public Relations &amp;&nbsp;Marketing</em></p>
+			<h3>Managing Editor &amp;&nbsp;Designer</h3>
+			<h4>Sara Rogers</h4>
+			<p><em>District Manager of Marketing Communications</em></p>
+			<h3>Contributors</h3>
+			<h4>Staff Writers &amp;&nbsp;Editors</h4>
+			<ul style="list-style-type: none; padding: 0;">
+			<li>Kendra Prince</li>
+			<li>Rita L. B. Parson</li>
+			<li>Connie Wiebe</li>
+			</ul>
+			<h4>Guest Faculty Writer</h4>
+			<ul style="list-style-type: none; padding: 0;">
+			<li>Raymond Benge</li>
+			</ul>
+			<h4>Freelance Writers</h4>
+			<ul style="list-style-type: none; padding: 0;">
+			<li>Renee Mitchan</li>
+			<li>Rhonda Aghamalian</li>
+			</ul>
+			<h3>Concept Photography</h3>
+			<ul style="list-style-type: none; padding: 0;">
+			<li>Brandon Tucker</li>
+			</ul>
+			<h3>Photography</h3>
+			<ul style="list-style-type: none; padding: 0;">
+			<li>DeeDra Parrish</li>
+			<li>Gary Logan</li>
+			</ul>
+			<hr />
+			<h3>Online Edition</h3>
+			<h4>Design &amp;&nbsp;Development</h4>
+			<ul style="list-style-type: none; padding: 0;">
+			<li>Stephen Fornal</li>
+			<li>Brandon Tucker</li>
+			</ul>
+			<hr />
+			<p>For comments or address changes, please email <a href="mailto:tcc.reach@tccd.edu">tcc.reach@tccd.edu</a>.</p>
+			<img class="sidebar-logo" src="/images/magazine/volume-01/sidebar/tcc-vert-slogan-logo.png" alt="Tarrant County College" /> <img class="sidebar-logo" src="/images/magazine/volume-01/sidebar/atd-logo.png" alt="Achieve the dream" />
 
 		<!-- /ouc:div -->
 
