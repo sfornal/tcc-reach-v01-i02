@@ -4,25 +4,21 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Elevating Key Programs</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
-			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
-			</parameter>
+			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data"></parameter>
 
-			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
-			</parameter>
+			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page."></parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/3-ceatl.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				A helicopter awaits in a classroom hangar
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +33,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="TCC Facilities open at Alliance Airport. The Center of Excellence for Aviation, Transportation and Logistics has been a long time coming." section="Metadata" />
+			<meta name="Author" content="" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,13 +43,50 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<p>The creation of the Tarrant County College Northwest Campus Center of Excellence for Aviation, Transportation and Logistics (CEATL) has been a long time coming. Now that all of TCC’s aviation programs are under one roof &mdash; along with programs for other compatible industries &mdash; its potential for growth overshadows any inconveniences encountered along its journey to becoming one of the premier aviation programs in the nation.</p>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<p>At a cost of about $20 million, TCC was able to purchase, design and renovate the 163,500-square-foot former helicopter manufacturing building, furnish it and relocate programs from Northwest Campus, nearly 15 miles southwest. TCC’s District Facilities team worked long and grueling hours for about a year with the first-rate aviation faculty and staff to ensure that contractors stayed on track. They oversaw the transformation of ideas, concepts, plans and drawings into spacious airplane hangars, teaching labs, classrooms and offices in a facility strategically located with direct access to the runway at Alliance Airport, the world’s first 100 percent airport designed for cargo and corporate aviation.</p>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<p>“Everyone feels that we now have one of the top facilities in the nation for aviation training. It seems better than my wildest dreams to have a facility like this with room to grow in such a rich aviation community. It is just perfect,” said Joseph McCourt, who became the first director of the aviation program in 2012. McCourt retired from the U.S. Air Force as an aircraft maintenance colonel with experience on several different aircraft and also worked for an air ambulance company in Maine. He started teaching at Sowela Tech in Lake Charles, Louisiana, and also taught at Lewis University before teaching another 20 years at Chandler-Gilbert Community College in Phoenix. When he first moved to the Dallas-Fort Worth area, he worked for American Airlines before joining TCC. “It’s like moving into a new home where you have to hunt for the switch that controls a certain set of lights or the reason that a door doesn’t open.”</p>
+
+			<p>TCC showed off its new facilities in September with a ribbon-cutting ceremony that included industry leaders, elected officials and some of the dual credit students studying aviation at Fort Worth ISD’s Dunbar High School. Victor Vandergriff, commissioner of the Texas Department of Transportation, and longtime supporter Tom Harris, president of Hillwood Company, Alliance Aviation/Air Services made remarks, as did TCC Chancellor Erma Johnson Hadley.</p>
+
+			<blockquote>
+				<p>“Everyone feels that we now have one of the top facilities in the nation for aviation training. It seems better than my wildest dreams to have a facility like this with room to grow in such a rich aviation community. It is just perfect,”</p>
+				<p class="attribution"> said Joseph McCourt</p>
+			</blockquote>
+
+			<p>“It was important for us to establish a center for aviation, transportation and logistics excellence in the Tarrant County College District because the need for transportation workers is continuing to grow,” Hadley said. “As the only public institution that offers these critical programs, we needed to be prepared to meet that growing need that undergirds the economic development in this region.”</p>
+
+			<p>TCC started its aviation program about one year after opening South Campus in 1967. Portions of the program were held offcampus at nearby Luck Field, so students could fire up engines, recalled Clint Grant, TCC Northwest Campus dean of business, technology and transportation. There was also a period when some classes were taught in Dallas for employees of an aviation business, Grant said. After TCC’s third location opened at Northwest Campus in 1976, the aviation program was moved to the Northwest Campus because of its proximity to Meacham Airport. Even when the recently vacated aviation building was built new in 1991, it could not house all of the demands of the aviation program, so some course work remained at Meacham Airport, Grant said. The program’s third location was opened to temporarily house TCC’s new Professional Pilot Program that started in Spring 2014.</p>
+
+			<p>“I was first attracted to the Professional Pilot Program because of the unique opportunity it provided to build a first-tier flight program from the ground up,” said Tyson Walker, who became the program’s first department chair in Fall 2013. Before joining TCC, Walker was both the director of training and standards and director of the Chinese Program at US Aviation Group of Denton. His experience there has resulted in a vital partnership with US Aviation that provides both aircraft and flight instructors for TCC’s rapidly growing program. “The bold vision and aggressive purchasing of this facility undoubtedly provides a learning environment that is unmatched among our competitors.”</p>
+
+			<p>Students also appreciate the upgrade.</p>
+
+			<p>“Our students enjoy the synergy afforded with having all aviation programs in one facility,” director McCourt said.</p>
+
+			<blockquote>
+				<p>“Whether it’s early morning, during lunch, or late in the evening, we will deliver the courses that meet the needs of all our students,”</p>
+				<p class="attribution"> said Elva LeBlanc</p>
+			</blockquote>
+
+			<p>Grant, whose aviation experience includes working for Delta Airlines and owning his own aircraft maintenance building, added, “Current students like that the entire facility is heated and airconditioned. We didn’t have that before.”</p>
+
+			<p>Student Michael Banas had this to say about CEATL: “It is impressive. A relatively new building makes learning enjoyable.” Banas, whose memories of drawing airplanes remind him how long flying has been important to him, said he likes the technology being in one area and the fact that CEATL is located at the airport.</p>
+
+			<p>“The facility is nice. It’s clean, well-kept and professional,” added student Gabriella Whittenburg. “We just got some &lsquo;sticky spaces&rsquo; for students to congregate and relax in.” Whittenburg, a U.S. Navy veteran who served as an aviation structural mechanic, knew she wanted to fly after her squadron worked next to the search and rescue command that flew Sikorksy helicopters. She picked TCC because it not only allowed her to return to her home state of Texas but because she learned “I could use my VA benefits to achieve a degree, as well as a private/commercial license in helicopters. I thought it was too good to be true.”</p>
+
+			<p>Now that the heavy lifting of relocating planes and equipment to the new site and making it through the first fall of classes is behind them, administrators will continue to fine-tune details. “The most significant item is completing our new FAA (Federal Aviation Administration) approved curriculum,” said Aviation Department Chair Darrell Irby, a graduate of TCC’s aviation program when it was under the auspices of Tarrant County Junior College at Meacham Field. After a 20-year career with Delta Airlines, Irby served as director of quality control for two companies and is the author of several aircraft manuals. “When a certified agency changes locations, the FAA may determine some changes are in order. We are following that process,” Irby said.</p>
+
+			<p>At the same time, they also are focusing on ways to redesign the program based more on logical course sequences than the pressures of space demands. “We had the ideas. We had the thoughts and the enthusiasm to do some of these things, but we were always restricted -- always limited,” Grant said. “Going forward, those limits are taken away. We have a lot more opportunities that we never had before.”</p>
+
+			<p>Northwest Campus President Elva LeBlanc agreed.</p>
+
+			<p>“For example, in addition to evening and daytime classes, we have recently begun scheduling classes at 6:30 a.m., so students may attend a class before going to work. Whether it’s early morning, during lunch, or late in the evening, we will deliver the courses that meet the needs of all our students,” LeBlanc said. “We will consistently continue to assess the needs of the community, workforce and industry to ensure that our offerings and delivery are relevant to their needs.”</p>
+
+			<p>Perched at its new location on the runway at Alliance Airport, it would appear that after journeying more than four decades, the sky really is the only limit for CEATL.</p>
 
 		<!-- /ouc:div -->
 	</content>
@@ -63,17 +96,16 @@
 		<!-- ouc:div label="sidebar-contents" group="Everyone" button="814" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article-sidebar.css" width="1020" / -->
 
-			<h3>Heading</h3>
+			<h3>Social Media Mentions</h3>
 
-			<p>Sidebar contents go here.</p>
+			<h4>@tarrantcountycollege</h4>
+			<p>It's official! Toro and company cut the ribbon at the new #TCCNorthwest Center of Excellence for Aviation, Transportation and Logistics!</p>
 
-			<p>Use a level 3 (&lt;h3&gt;) heading as the main heading, and use level 4 or 5 as sub- or sub-subheadings, as needed.</p>
+			<h4>@startelegram</h4>
+			<p>@TCCollege officially opens new Aviation Center at Alliance Airport <a href="http://bit.ly/1uIiaF8">http://bit.ly/1uIiaF8</a> #txed #txschools</p>
 
-			<p>Use an &lt;hr&gt; to add a line divider.</p>
-
-			<p>Use the <strong>Mag-Sidebar-Divider</strong> snippet to make a second sidebar.</p>
-
-			<p>To place an image in the sidebar, simply use a normal image element; the <em>figure snippet</em> is not needed.</p>
+			<h4>@KellerISD_CTE</h4>
+			<p>@KellerISD students at @TCCollege Aviation Grand Opening at Alliance Airport @KellerISD_CTE Exceptional Opportunity!</p>
 
 		<!-- /ouc:div -->
 
