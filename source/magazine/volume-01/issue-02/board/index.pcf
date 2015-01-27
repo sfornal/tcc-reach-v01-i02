@@ -4,25 +4,23 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Foundation: New Board Members &amp;&nbsp;Officers</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
 			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
+				Tarrant County College Foundation Names New Board Members &amp;&nbsp;Officers
 			</parameter>
 
-			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
-			</parameter>
+			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page."></parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/25-board.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				A row of headshots of the new Foundation board members
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +35,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="The TCC Foundation recently elected officers and appointed five new members to its board." section="Metadata" />
+			<meta name="Author" content="" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,13 +45,33 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+			<p>The Tarrant County College Foundation recently elected officers and appointed five new members to its board. The officers, serving a one-year term are Chairman Randall Canedy, Vice Chairman David Parker, Secretary Lei Testa and Treasurer Kay Cox. Canedy serves as market president, Frost Bank Mansfield.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<hr/>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<h3>Jay M. Bartley</h3>
+			<p>Jay M. Bartley, senior wealth advisor for American National Bank of Texas. Bartley’s background in banking spans more than 25 years. She is a founding director of the Aledo ISD Education Foundation and also board secretary and director for the Parker County Health Foundation. She has a Bachelor of Business Administration from Texas A&amp;M University, where she majored in accounting.</p>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<hr/>
+
+			<h3>Rhonda Robertson</h3>
+			<p>Rhonda Robertson, assistant chief of police, City of Fort Worth. A 19-year veteran of the Fort Worth Police Department, Robertson oversees the department’s Support Bureau, which includes Tactical Command, Investigative and Support Command and Communications. She received her Bachelor of Business Administration from the University of Oklahoma and Master of Arts from The University of Texas at Arlington. She is also a graduate of the FBI National Academy.</p>
+
+			<hr/>
+
+			<h3>Charles G. Langham III</h3>
+			<p>Charles G. Langham III, author and lecturer. Langham received his medical degree from the University of Texas Medical Branch Galveston in 1975. He has served on numerous committees, boards and leadership positions, including All Saints Episcopal and Baylor All Saints Hospital, where he was chief of staff and chairman of the Department of Obstetrics and Gynecology.</p>
+
+			<hr/>
+
+			<h3>Linda Valdez Thompson</h3>
+			<p>Linda Valdez Thompson is executive vice president of administration and diversity, DFW International Airport. Thompson has received several distinctions including being named Woman of the year by Hispanic Business Magazine and Ultimate Latina by the USA Hispanic Chamber of Commerce. She is an alumnus of the prestigious National Hispanic Leadership Institute (NHLI).</p>
+
+			<hr/>
+
+			<h3>Karen Thornton</h3>
+
+			<p>Karen Thornton, vice president of human resources, FTS International. A 15-year human resource professional, Thornton received her Bachelor of Science in Industrial Management from Purdue University and a Master of Business Administration in Finance from The University of Texas at Austin.</p>
 
 		<!-- /ouc:div -->
 	</content>
