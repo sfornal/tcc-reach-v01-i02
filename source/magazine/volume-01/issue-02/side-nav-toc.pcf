@@ -1,4 +1,4 @@
-`<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <?pcf-stylesheet path="/_resources/xsl/reach-toc-inc.xsl" extension="inc"?>
 <!DOCTYPE document SYSTEM "http://commons.omniupdate.com/dtd/standard.dtd">
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
@@ -13,7 +13,7 @@
 			<li><a href="/magazine/volume-01/issue-02/chancellor">Chancellor&rsquo;s Corner</a></li>
 			<li><a href="/magazine/volume-01/issue-02/facilities">Bright &amp; Shiny</a></li>
 			<li><a href="/magazine/volume-01/issue-02/ceatl">Elevating Key Programs</a></li>
-			<li><a href="/magazine/volume-01/issue-02/globen">Welcome Aboard</a></li>
+			<li><a href="/magazine/volume-01/issue-02/goben">Welcome Aboard</a></li>
 			<li><a href="/magazine/volume-01/issue-02/e-learning">Online, Anytime!</a></li>
 			<li><a href="/magazine/volume-01/issue-02/plus-50">Finding Their Way</a></li>
 			<li><a href="/magazine/volume-01/issue-02/common-course">Creating Campus Consistency</a></li>
