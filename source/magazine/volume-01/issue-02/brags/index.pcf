@@ -4,25 +4,21 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Faculty &amp;&nbsp;Staff Brags</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
-			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
-			</parameter>
+			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data"></parameter>
 
-			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
-			</parameter>
+			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page."></parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/21-brags.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				Two hands come together in a congratulatory gesture
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +33,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="TCC faculty and staff are recognized for their individual achievements and awards." section="Metadata" />
+			<meta name="Author" content="" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,13 +43,421 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+			<p>This is not an exhaustive list of the many distinguised awards received by TCC faculty and staff in 2014. Please submit your awards to <a href="mailto:tcc.brags@tccd.edu">TCC.Brags@tccd.edu</a>.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<ul>
+				<li>
+					<h3>Brent Alford</h3>
+					<p>
+						<em>Instructor of Drama, Northwest Campus</em>
+					</p>
+					<p>Selected to perform in Summer 2014 as Prospero in the Trinity Shakespeare Festival’s acclaimed production of <em>The Tempest</em>. Also selected to appear as The Narrator in the Dallas Theatre Center’s production of <em>The Rocky Horror Show</em>.</p>
+				</li>
+				<li>
+					<h3>Orlando Bagcal</h3>
+					<p>
+						<em>Associate Professor of Construction, South Campus</em>
+					</p>
+					<p>Mentored Construction Management students, leading them to a 2nd place award at the 2014 International Builders Show – Residential Construction Management Competition in Las Vegas.</p>
+				</li>
+				<li>
+					<h3>Rebecca Balcarcel</h3>
+					<p>
+						<em>Associate Professor of English, Northeast Campus</em>
+					</p>
+					<p>Elected as treasurer of Texas Association of Creative Writing Teachers in September 2014.</p>
+				</li>
+				<li>
+					<h3>Josh Blann</h3>
+					<p>
+						<em>Associate Professor of Drama, Northwest Campus</em>
+					</p>
+					<p>Invited to be a guest artist for Abilene Christian University’s Abilene Shakespeare Festival in Summer 2014 for the title role in <em>Macbeth</em>.</p>
+				</li>
+				<li>
+					<h3>Jeremy Byrd</h3>
+					<p>
+						<em>Professor of Philosophy, South Campus</em>
+					</p>
+					<p>Featured in the international journal of scientific philosophy, <em>Erkenntnis</em>. In the article entitled “The Dialectical Advance of the Direct Argument,” Byrd presented a deeper understanding of holding people morally accountable for their behaviors.</p>
+				</li>
+				<li>
+					<h3>Consortium Leadership and Renewal Academy Graduates</h3>
+					<p>CLARA is a year-long regional leadership program created for the North Texas Community College Consortium member institutions.</p>
+					<ul>
+						<li>
+							<h4>Michelle Davis-Mohammed</h4>
+							<p>
+								<em>Manager of Real Estate Management Services, District</em>
+							</p>
+						</li>
+						<li>
+							<h4>Kateeka Harris</h4>
+							<p>
+								<em>Coordinator of Student Support, Northeast Campus</em>
+							</p>
+						</li>
+						<li>
+							<h4>Harry Johnson</h4>
+							<p>
+								<em>Coordinator of Special Projects, Northeast Campus</em>
+							</p>
+						</li>
+						<li>
+							<h4>Joan Johnson</h4>
+							<p>
+								<em>Assistant Professor of Government, Northeast Campus</em>
+							</p>
+						</li>
+						<li>
+							<h4>Mina Thompson</h4>
+							<p>
+								<em>Assistant Professor of English, Northeast Campus</em>
+							</p>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<h3>Leigh Dietrich</h3>
+					<p>
+						<em>Assistant Police Chief, District Office</em>
+					</p>
+					<p>The Texas Association of College and University Police Administrators (TACUPA) presented the prestigious Larry W. Fultz Memorial Award to Dietrich at its 50th Annual Conference in Corpus Christi.</p>
+				</li>
+				<li>
+					<h3>Maddalena De Nicola</h3>
+					<p>
+						<em>Instructor of German/ESOL, Northeast Campus</em>
+					</p>
+					<p>Chosen by her colleagues in the North Texas chapter of AATG (American Association of Teachers of German) for the Klett Langenscheidt Award, presented in September 2014.</p>
+				</li>
+				<li>
+					<h3>Charles DeSassure</h3>
+					<p>
+						<em>Assistant Professor of Computer Science, Southeast Campus</em>
+					</p>
+					<p>Appointed by the Texas Higher Education Coordinating Board to be a member of the Learning Technology Advisory Committee (LTAC) for a term of three years beginning September 1.</p>
+				</li>
+				<li>
+					<h3>Angel Fernandez</h3>
+					<p>
+						<em>Associate Professor of Art, Trinity River Campus</em>
+					</p>
+					<p>Participated in the Spring 2014 Trinity River Faculty Exhibition in the Eastfork Gallery. Displayed an outdoor sculpture installation at El Centro College in Dallas from October 2013 through August 2014. Also has a sculpture on display at the TCC Northwest Campus Sculpture Park.</p>
+				</li>
+				<li>
+					<h3>Jason Frawley</h3>
+					<p>
+						<em>Professor of History, Northwest Campus</em>
+					</p>
+					<p>Article published in <em>The Gettysburg Magazine</em>, a highly respected national publication for those interested in Civil War history. He served as the Thomas W. Smith Post-Doctoral Fellow at Gettysburg College from 2012 to 2013 and was selected by <em>The Gettysburg Magazine</em> to write an article reflecting on his time there.</p>
+				</li>
+				<li>
+					<h3>Amy Gee</h3>
+					<p>
+						<em>Assistant Professor of Nursing, Trinity River Campus East</em>
+					</p>
+					<p>Selected as one of the Great 10 Nurses for 2014 at Cook Children's Medical Center.</p>
+				</li>
+				<li>
+					<h3>John Hartley</h3>
+					<p>
+						<em>Associate Professor of Art, Northwest Campus</em>
+					</p>
+					<p>Honored with the Critic’s Choice Award for Best Visual Artist as part of Fort Worth Weekly’s Best of 2014 Awards. Also selected for the juried Art in the Metroplex 2014 exhibition. Only 35 works were selected from 700 entries. Hartley exhibited his art at the following venues in 2014: Fort Worth Community Arts Center, Artspace 111, TCC Northwest Faculty Exhibition and Gallery 414.</p>
+				</li>
+				<li>
+					<h3>Laserfiche Implementation Team</h3>
+					<p>
+						<em>Darrell Rush (Document Imaging Technician), Carol Latham (Records Imaging Specialist), Nigel Parker (Director of Archives and Records Management), Patricia Shapard (Manager of District Imaging) and Ramon Moreno (Document Imaging Assistant), District</em>
+					</p>
+					<p>Received a MCCi Excellence Award as well as the Laserfiche Run Smarter Award. The team’s work was also featured on the Laserfiche website as an example to other companies on how this TCC team accomplished automation of manual paper processing.</p>
+				</li>
+				<li>
+					<h3>Brentom Jackson</h3>
+					<p>
+						<em>Counselor, Northwest Campus</em>
+					</p>
+					<p>Became a certified Mental Health First Aid instructor. Jackson is the second certified Mental Health First Aid instructor on the NW campus.</p>
+				</li>
+				<li>
+					<h3>Brian Johnson</h3>
+					<p>
+						<em>Associate Professor of Government and History, South Campus</em>
+					</p>
+					<p>Was sworn in as Mayor of Kennedale, Texas. Charles Overstreet, South Campus Professor of Psychology and Sociology is also on the Kennedale City Council.</p>
+				</li>
+				<li>
+					<h3>Jennifer Lawrence</h3>
+					<p>
+						<em>Professor of History, Southeast Campus</em>
+					</p>
+					<p>Served as a historical expert on the show, Gunslingers, on the American Heroes Channel (formerly the Military Channel) for the episode focusing on John Wesley Hardin. The episode aired Sunday, August 17.</p>
+				</li>
+				<li>
+					<h3>Paul Luyster</h3>
+					<p>
+						<em>Associate Professor of Biology, South Campus</em>
+					</p>
+					<p>Selected as one of 10 national finalists for the Community College Futures Assembly Bellwether Award in the category of “Instructional Programs and Services.” Also certified as a &ldquo;National Academies of Education Fellow in the Life Sciences&rdquo; after successfully completing the Mountain West Summer Institute at the University of Colorado.</p>
+				</li>
+				<li>
+					<h3>Lydia Macaulay</h3>
+					<p>
+						<em>Assistant Professor of Computer Science & Information Technology, Southeast Campus</em>
+					</p>
+					<p>Recognized as an advanced level instructor by the Cisco Networking Academy program. This award recognizes her achievements as an instructor in the top 25 percent globally in the areas of participation in professional development opportunities, attention to student needs, student performance and use of resources.</p>
+				</li>
+				<li>
+					<h3>Tyson McMillan</h3>
+					<p>
+						<em>Coordinator of Career Services, South Campus</em>
+					</p>
+					<p>Honored as a 2014 Texas Association of Special Student Services Programs (TASSSP) TRiO Achiever. Also selected by the TASSSP board as their 2014 Southwest Association of Student Assistance Program TRiO Achiever.</p>
+				</li>
+				<li>
+					<h3>Nicole Minor</h3>
+					<p>
+						<em>Director of Campus and Community Outreach, South Campus</em>
+					</p>
+					<p>Received a 2014 Community Service Award at the L. Clifford Davis Legal Association’s Annual Scholarship and Awards Banquet for her outstanding work to empower and educate the community.</p>
+				</li>
+				<li>
+					<h3>Monica Miranda</h3>
+					<p>
+						<em>Professor of Computer Science, Trinity River Campus</em>
+					</p>
+					<p>Named to the Conference Committee of the Executive Board of the Texas Cooperative Education and Internship Association, serving as a community college representative on the board.</p>
+				</li>
+				<li>
+					<h3>Robert Munoz</h3>
+					<p>
+						<em>Vice President of Community & Industry Education, Trinity River Campus</em>
+					</p>
+					<p>Named to the Executive Advisory Council of The Texas Education Consortium for Male Students of Color. Elected as treasurer of the council, which consists of 14 member institutions in Texas.</p>
+				</li>
+				<li>
+					<h3>LeeAnn Olivier</h3>
+					<p>
+						<em>Instructor of English, Northwest Campus</em>
+					</p>
+					<p>Published two poems, “Letters from Crittenden County Jail” and “Fragments of My Father after Vietnam,” in the September 2014 issue of <em>Hermeneutic Chaos Literary Journal</em>.</p>
+				</li>
+				<li>
+					<h3>Marius Pfeiffer</h3>
+					<p>
+						<em>Professor of Biology, Northeast Campus</em>
+					</p>
+					<p>Completed Leadership Colleyville through the Colleyville Chamber of Commerce in June 2014.</p>
+				</li>
+				<li>
+					<h3>Patricia Richards</h3>
+					<p>
+						<em>Associate Professor of Photography, Northeast Campus</em>
+					</p>
+					<p>Selected to exhibit five photography pieces at the Palazzo Albrizzi in Venice, Italy. Also participated in the PhotoTXcetera exhibition, ONEshot!, in the Kevin Page Gallery at the Valley View Center in Dallas, Texas.</p>
+				</li>
+				<li>
+					<h3>Adrian Rodriguez</h3>
+					<p>
+						<em>Vice President of Student Development Services, Trinity River Campus</em>
+					</p>
+					<p>Selected as a recipient of Phi Theta Kappa’s prestigious Distinguished College Administrator Award, an international distinction based on outstanding support provided to PTK over many years. Also selected as one of four college administrators in the state of Texas to be inducted into the Hall of Honor for Distinguished College Administrators for the Texas Region of PTK.</p>
+				</li>
+				<li>
+					<h3>Winter Rusiloski</h3>
+					<p>
+						<em>Associate Professor of Art, Northwest Campus</em>
+					</p>
+					<p>Selected to exhibit her art at the following venues in 2014: Artspace 111, Dallas Art Fair, Fort Worth Community Arts Center and Cohn Drennan Contemporary. Also selected for the juried Art in the Metroplex 2014 exhibition. Only 35 works were selected from 700 entries.</p>
+				</li>
+				<li>
+					<h3>Wafeeq Sabir</h3>
+					<p>
+						<em>Sociology Adjunct, Trinity River Campus</em>
+					</p>
+					<p>Presented with the "National Black Police Association Presidential Award" by NBPA Regional President Bobby Westbrook while conducting a workshop on Bios and R&eacute;sum&eacute;s for Law Enforcement at the NBPA Southern Region Spring Training Conference in Birmingham, Alabama.</p>
+				</li>
+				<li>
+					<h3>Allan Saxe</h3>
+					<p>
+						<em>Government Adjunct, Southeast Campus</em>
+					</p>
+					<p>Awarded The University of Texas System Regents’ Outstanding Teaching Award in August.</p>
+				</li>
+				<li>
+					<h3>Lisa Self</h3>
+					<p>
+						<em>Assistant Professor of Child Development and Education, Northeast Campus</em>
+					</p>
+					<p>Awarded the 2013&ndash;2014 Community College Regional Chapter Counselor Award for Kappa Delta Pi, honor society for education and child development students.</p>
+				</li>
+				<li>
+					<h3>Jacob Smith</h3>
+					<p>
+						<em>Adjunct Instructor for Fire Service Training Center, Northwest Campus</em>
+					</p>
+					<p>Won the 2014 Texas Association Fire Educators’ (TAFE) George Hughes Instructor of the Year Award.</p>
+				</li>
+				<li>
+					<h3>Frederick Spaulding</h3>
+					<p>
+						<em>Associate Professor of Art, Northwest Campus</em>
+					</p>
+					<p>Selected to exhibit his art at the following venues in 2014: Artspace 111, South Texas College and The University of Texas-Pan American.</p>
+				</li>
+				<li>
+					<h3>Demetrice Thompson</h3>
+					<p>
+						<em>Coordinator of Special Projects, South Campus</em>
+					</p>
+					<p>Was invited to serve on the Campus Performance Objective Committee for the 2014&ndash;2015 school year at the Bill R. Johnson CTE Center, Crowley ISD.</p>
+				</li>
+				<li>
+					<h3>Brandon Tucker</h3>
+					<p>
+						<em>Web Design Coordinator, District</em>
+					</p>
+					<p>Exhibited his photography at the 2014 Main Street Fort Worth Arts Festival. Also a photography finalist in the TCC Spring Art Competition.</p>
+				</li>
+				<li>
+					<h3>Tracy Williams</h3>
+					<p>
+						<em>Coordinator of Career Services, Northwest Campus</em>
+					</p>
+					<p>Accepted the position of president-elect/conference chair on the Executive Board of the Texas Cooperative Education and Internship Association, Inc. This position heads the conference committee.</p>
+				</li>
+			</ul>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<hr />
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<h2>Quarterly Excellence Awards Honorees:</h2>
+
+			<ul>
+				<li>
+					<h3>Rich Cordrey</h3>
+					<p>
+						<em>TCC Connect</em>
+					</p>
+				</li>
+				<li>
+					<h3>Student Development Services Team, Northwest Campus</h3>
+					<ul>
+						<li>
+							<h4>Joe Rode</h4>
+						</li>
+						<li>
+							<h4>Vesta Martinez</h4>
+						</li>
+						<li>
+							<h4>Betsy Bradshaw</h4>
+						</li>
+						<li>
+							<h4>Rachael McCloskey</h4>
+						</li>
+						<li>
+							<h4>Alicia Coleman</h4>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<h3>Rickey Cox</h3>
+					<p>
+						<em>Groundskeeper, Northeast Campus</em>
+					</p>
+				</li>
+				<li>
+					<h3>Brittni Cockran</h3>
+					<p>
+						<em>College Access Coordinator, District</em>
+					</p>
+				</li>
+				<li>
+					<h3>Axel Leos</h3>
+					<p>
+						<em>Student Development Associate, South Campus</em>
+					</p>
+				</li>
+				<li>
+					<h3>Stevie Blakely</h3>
+					<p>
+						<em>Coordinator of the Discovery Center for Student Success and the Center for Leadership Development, Trinity River Campus</em>
+					</p>
+				</li>
+				<li>
+					<h3>Laserfiche Implementation Team, Districtwide</h3>
+					<ul>
+						<li>
+							<h4>Ramon Moreno</h4>
+						</li>
+						<li>
+							<h4>Charlene Perkins</h4>
+						</li>
+						<li>
+							<h4>Darrell Rush</h4>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<h3>Lakisha Morgan</h3>
+					<p>
+						<em>Administrative Assistant II, South Campus</em>
+					</p>
+				</li>
+				<li>
+					<h3>Ami Dominguez</h3>
+					<p>
+						<em>Graduation Outreach Specialist, Trinity River Campus</em>
+					</p>
+				</li>
+				<li>
+					<h3>Jennifer Sours</h3>
+					<p>
+						<em>Records Specialist, Trinity River Campus</em>
+					</p>
+				</li>
+				<li>
+					<h3>Tai Vo</h3>
+					<p>
+						<em>Learning Lab Manager, Northeast Campus</em>
+					</p>
+				</li>
+				<li>
+					<h3>Courier Team, Districtwide</h3>
+					<ul>
+						<li>
+							<h4>Rene Saldivar</h4>
+						</li>
+						<li>
+							<h4>Jerry Lindsey</h4>
+						</li>
+						<li>
+							<h4>Danny Pearson</h4>
+						</li>
+						<li>
+							<h4>Macario Villanueva</h4>
+						</li>
+					</ul>
+				</li>
+				<li>
+					<h3>Maisha Tsiboe</h3>
+					<p>
+						<em>Administrative Office Assistant, South Campus</em>
+					</p>
+				</li>
+				<li>
+					<h3>Renetta Wright</h3>
+					<p>
+						<em>Assistant Director of Counseling and Advising, Southeast Campus</em>
+					</p>
+				</li>
+				<li>
+					<h3>Laura Escamilla</h3>
+					<p>
+						<em>Academic Advisor, Trinity River Campus</em>
+					</p>
+				</li>
+			</ul>
 
 		<!-- /ouc:div -->
 	</content>
@@ -63,18 +467,87 @@
 		<!-- ouc:div label="sidebar-contents" group="Everyone" button="814" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article-sidebar.css" width="1020" / -->
 
-			<h3>Heading</h3>
+			<h3>Chancellor&rsquo;s Employee Excellence Award Honorees</h3>
 
-			<p>Sidebar contents go here.</p>
+			<h4>Exemplary Teaching</h4>
+			<p>
+				<strong>Bobbie Douglass</strong>
+				<br/>
+				<em>Northeast Campus</em>
+				<br/>
+				<em>Associate Professor of Music</em>
+			</p>
+			<h4>Exemplary Teaching</h4>
+			<p>
+				<strong>Julie Lantrip</strong>
+				<br/>
+				<em>Northwest Campus</em>
+				<br/>
+				<em>Professor of Government</em>
+			</p>
+			<h4>Exemplary Teaching</h4>
+			<p>
+				<strong>Kristina Miranda</strong>
+				<br/>
+				<em>South Campus</em>
+				<br/>
+				<em>Instructor of Biology</em>
+			</p>
+			<h4>Exemplary Teaching</h4>
+			<p>
+				<strong>Brunilda Santiago</strong>
+				<br/>
+				<em>Southeast Campus</em>
+				<br/>
+				<em>Associate Professor of Mathematics</em>
+			</p>
+			<h4>Exemplary Teaching</h4>
+			<p>
+				<strong>Irene Thrower</strong>
+				<br/>
+				<em>Trinity River Campus</em>
+				<br/>
+				<em>Instructor of Speech</em>
+			</p>
+			<h4>Access and Diversity</h4>
+			<p>
+				<strong>Shani Barrax Moore</strong>
+				<br/>
+				<em>District Director of Institutional</em>
+				<br/>
+				<em>Diversity and Inclusion</em>
+			</p>
+			<h4>Student Success</h4>
+			<p>
+				<strong>Student Success</strong>
+				<br/>
+				<em>Trinity River Campus Academic Advisor for the Transfer Center</em>
+			</p>
+			<h4>Service to Community</h4>
+			<p>
+				<strong>Jeronimo Aviles</strong>
+				<br/>
+				<em>Trinity River Campus Assistant Director of Counseling and Advising</em>
+			</p>
 
-			<p>Use a level 3 (&lt;h3&gt;) heading as the main heading, and use level 4 or 5 as sub- or sub-subheadings, as needed.</p>
+			<hr/>
 
-			<p>Use an &lt;hr&gt; to add a line divider.</p>
+			<h4>Chancellor’s Distinguished Leadership Award</h4>
+			<p>Based on the recommendation of TCC campus presidents, Chancellor Erma Johnson Hadley, for the second year, presented the Chancellor’s Distinguished Leadership Award to nearly 300 faculty members who made up the District’s Academic Curriculum Teams.</p>
 
-			<p>Use the <strong>Mag-Sidebar-Divider</strong> snippet to make a second sidebar.</p>
+			<hr/>
 
-			<p>To place an image in the sidebar, simply use a normal image element; the <em>figure snippet</em> is not needed.</p>
+			<h4>Forward Thinking</h4>
+			<p>
+				<strong>District Public Relations and Marketing Team:</strong>
+			</p>
+			<p><em>L&ndash;R</em>: Sara Rogers, District Manager of Marketing Communications; Kendra Prince, District Editorial Coordinator; Connie Wiebe, Administrative Office Assistant; Suzanne Cottraux, Executive Director of Public Relations and Marketing; Rita Parson, District Manager of Public Relations; DeeDra Parrish, District Photographer</p>
 
+			<h4>Innovation and Creativity</h4>
+			<p>
+				<strong>District Men of Color Mentoring Program Team:</strong>
+			</p>
+			<p><em>L&ndash;R</em>: Eligio Martinez, Coordinator of Student Success; Christopher Douglas, Student Success and Title III; Jacqueline Hall, Administrative Assistant; Freddie Sandifer, Jr., Coordinator of Student Success</p>
 		<!-- /ouc:div -->
 
 	</sidebar>
