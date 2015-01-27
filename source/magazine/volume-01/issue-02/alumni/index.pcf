@@ -4,25 +4,25 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Foundation: Alumni Profile</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
 			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
+				For Christian Childs, even the sky is not the limit.
 			</parameter>
 
 			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
+				Renee Mitcham
 			</parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/22-alumni.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				Christian Childs
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +37,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="A downturn in the economy and the glass ceiling at his job convinced Christian Childs to pursue his degree." section="Metadata" />
+			<meta name="Author" content="Renee Mitcham" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,14 +47,22 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+			<p>Eager to move from his small South Carolina town and in a different direction than his post-military job in police work, Christian Childs followed a lead and quickly landed an entry-level position in aviation operations in the Dallas area in 1999. Having spent years in the cockpit with his father, a hobby pilot, and having gained even more experience around aircraft in the Marines, the aviation industry seemed a natural fit. During the next few years, Childs moved steadily through the operations ranks with Alliance Aviation Services.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<p>Childs began with Alliance as an operations specialist in 2001, handling aircraft maintenance such as fueling, parking and servicing. He moved up to lead operations specialist a few years later. But his pursuit of a college degree &mdash; along with his fundamental drive for success &mdash; helped Childs’ career ascend to his current role as airport manager at Fort Worth Alliance Airport.</p>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<blockquote>
+				<p>&ldquo;With the downturn in the economy, and the fact that I basically hit the glass ceiling in my job, I knew I needed my degree,&rdquo;</p>
+				<p class="attribution">said Christian Childs</p>
+			</blockquote>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<p>When the recession hit in 2008, Childs became serious about returning to college. Childs chose Tarrant County College to start the process. &ldquo;The TCC system offered so many benefits &mdash; lots of course options online, affordability and accommodating advisors who helped me navigate my core courses while working full time,&rdquo; he said.</p>
 
+			<p>Tom Harris, president of Alliance Air and Aviation Services and whose career with the Hillwood organization spans more than 24 years, praised Childs’ tenacity and work ethic. &ldquo;Christian is a great example of a young man who has worked extremely hard to find a way to carry a six- to 12-hour class load to earn a degree while working full time. It’s quite an accomplishment and somewhat painful.&rdquo;</p>
+
+			<p>Harris added, &ldquo;Christian began in operations and is now our airport manager, which is a huge responsibility with an impressive spectrum of duties. He’s in charge of managing the airport’s dayto- day operations, ensuring the proper maintenance and safety of aircraft at Alliance and compliance with many federal regulations, working as liaison with the FAA and area residents on noise and other topics, meeting with the City of Fort Worth and helping with the logistics of the annual Alliance Air Show, to mention a few.&rdquo;</p>
+
+			<p>With a strong foundation at TCC, Childs is on target to earn his Bachelor of Science in Applied Science in Business Administration, with a minor in Management from Tarleton State University.</p>
 		<!-- /ouc:div -->
 	</content>
 
