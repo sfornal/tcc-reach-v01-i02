@@ -4,25 +4,23 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Creating a Culture that CAREs</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
-			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
-			</parameter>
+			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data"></parameter>
 
 			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
+				Kendra Prince
 			</parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/20-cares.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				A CARE team sits and brainstorms at a conference table
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +35,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="With violence on the rise at higher education institutions, TCC is ready to respond with District-wide CARE teams." section="Metadata" />
+			<meta name="Author" content="Kendra Prince" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,13 +45,29 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+			<p>With violence on the rise at higher education institutions, Tarrant County College continually looks for ways to mitigate the risk of such incidents occurring on campus. &ldquo;The world changed, especially with Virginia Tech,&rdquo; says Joe Rode, vice president of student development services for the Northwest campus. The mass shooting at Virginia Tech on April 16, 2007, during which 32 people were killed and 17 injured before the shooter committed suicide, caused many colleges and universities to organize behavioral intervention teams at their campuses.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<p>When Adrian Rodriguez, vice president for student development services at Trinity River, joined TCC in 2009, he realized the College District did not have a behavioral intervention team in place. After receiving full support from the campus president, Rodriguez (pictured above, speaking) assembled a steering committee that evaluated other colleges and universities with behavioral intervention teams. The committee also sought direction from Scott Lewis, president and partner of The National Center for Higher Education Risk Management (NCHERM).</p>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<p>After extensive research and training, the CARE team was formed and introduced to the Trinity River staff in Spring 2011. (CARE stands for Consultation, Assessment, Resources and Education.) Led by Rodriguez, the Trinity River Campus CARE team consists of representatives from various disciplines including Counseling, Disability Support Services, Student Life, Campus Police and faculty. The multi-disciplinary team takes a proactive and preventive approach, providing 1) assistance to students and the campus community who are in distress through consultation with concerned faculty, staff and students; 2) consistent communication between departments; and 3) referrals to both on- and off-campus resources.</p>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<p>&ldquo;The CARE Team directly impacts student success, which is the first strategic goal of the Vision 2015 initiative,&rdquo; said Rodriguez. &ldquo;By helping students in distress, the CARE Team gives students the support they need to be successful and persist to goal.&rdquo; Rodriguez believes the advantage of a multi-disciplinary approach is that an informed decision can be made, benefiting both the student as well as the campus community. He emphasizes this approach isn’t punitive in nature. The CARE team seeks to provide support and intervention by maximizing resources as early as possible so the student can reach his or her educational goal.</p>
+
+			<p>CARE Team members have a new tool &mdash; Maxient, a software system for student conduct and CARE Team record management, which was launched Districtwide in Fall 2014. &ldquo;Maxient is the gold standard of the industry,&rdquo; said Demesia Razo, coordinator of student support services at Trinity River. &ldquo;Previously, we used paper records, which made sharing information and generating reports much more difficult. With Maxient, we can operate on a digital platform, which helps not only with end of year reports and observing trends, but also in sharing information across the District.&rdquo; An additional benefit is the ability to keep up with record retention. &ldquo;Records are retained for seven years and then TCC is required by the Clery Act to destroy them. Maxient automatically deletes them for us, keeping us compliant and ready for Department of Education audits,&rdquo; said Razo.</p>
+
+			<p>Referrals to the CARE team are open to anyone who feels a student may be in distress or present a threat to themselves, the campus and/or the surrounding community. The CARE team will evaluate information provided and determine the appropriate course of action needed to assist the referred student. The teams meet weekly to discuss cases and if warranted, an emergency meeting can be called. The team assigns a level of risk and recommends action that then is documented in the database. Throughout the process, the privacy of the student is protected.</p>
+
+			<p>Last year, TCC took the successful CARE pilot and introduced it District-wide, with all campuses following the model used by the Trinity River and Northwest campuses. Weekly CARE team meetings are held at each of the campuses.</p>
+
+			<p>In 2013, the CARE teams received training from Scott Lewis with NCHERM, integrated with campus suicide prevention training that is an extension of the Garrett Lee Smith Suicide Prevention Grant. The goal of the grant is to increase suicide awareness and prevention in colleges through recognizing population at risk, providing referral resources to those in distress, and offer preventive skills to reduce suicide completion. Fall 2014 marked the third year of the grant and training will expand District-wide in scope.</p>
+
+			<p>&ldquo;Ultimately, the focus of these efforts is our students,&rdquo; said Rode, who hopes to improve student retention by developing relationships with those who are at risk. Rodriguez believes that providing a &ldquo;culture of caring&rdquo; for students is vital. &ldquo;We have incredibly skilled people on our CARE team and have built a solid network of resources for referrals.</p>
+
+			<p>&rdquo; &ldquo;As a member of the CARE team at Trinity River, I’ve seen first-hand how behavioral intervention connects the dots. When reports arrive from different sources about a particular student, the CARE team can identify a pattern of behavior that could lead to a danger to the student or others, said Scott Robinson, division dean of humanities. &ldquo;If a trend suggests a need for intervention, we draw upon a wide range of expertise around the CARE team table. Each member brings a different perspective &mdash; and a different set of tools &mdash; to the table.</p>
+
+			<p>&rdquo; The efforts seem to be working. The program received the Chancellor’s Award for the Area of Innovation and Creativity in August 2011. Since its inception in 2011 at the Trinity River Campus, 273 referrals have been made to CARE Teams across the District. Rode feels the greatest indicator of CARE’s success is the lack of any violent acts since the program began.</p>
+
+			<p>Now, other institutions are benefiting from TCC’s success with its CARE Teams. In November, Rodriguez, Louann Schulze, director of counseling at Trinity River, and Lori Leach, counselor, along with Scott Lewis, presented &ldquo;BIT Implementation and Operational Guidelines: From Implementation to Operationalization at a Large Multi-Campus Institution&rdquo; in a pre-conference session at the sixth annual conference of National Behavioral Intervention Team Association (NaBITA). After sharing how TCC’s CARE Teams came into being and how they function, they led attendees through case studies, which allowed them to participate in the implementation of the BIT process.</p>
 
 		<!-- /ouc:div -->
 	</content>
@@ -63,17 +77,38 @@
 		<!-- ouc:div label="sidebar-contents" group="Everyone" button="814" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article-sidebar.css" width="1020" / -->
 
-			<h3>Heading</h3>
+			<h3>CARE Team Testimonials</h3>
 
-			<p>Sidebar contents go here.</p>
-
-			<p>Use a level 3 (&lt;h3&gt;) heading as the main heading, and use level 4 or 5 as sub- or sub-subheadings, as needed.</p>
-
-			<p>Use an &lt;hr&gt; to add a line divider.</p>
-
-			<p>Use the <strong>Mag-Sidebar-Divider</strong> snippet to make a second sidebar.</p>
-
-			<p>To place an image in the sidebar, simply use a normal image element; the <em>figure snippet</em> is not needed.</p>
+			<blockquote>
+				<p>&ldquo;I have used the services of the CARE team three times, and I am very pleased we have a group of dedicated professionals on campus who are instrumental in dealing with student situations that could, without intervention, lead to serious consequences. The members of the CARE team allow us faculty members to identify potential problems in a very open, positive atmosphere. I am very glad they are a part of TCC.&rdquo;</p>
+				<p>
+					<strong>Terry D. Heflin, Ed.S.</strong>
+					<br/>
+					<em>Instructor of English | Marine Creek Reflections Faculty Editor, Northwest Campus</em>
+				</p>
+			</blockquote>
+			<hr/>
+			<blockquote>
+				<p>&ldquo;The CARE team has been an incredibly helpful resource to me as an instructor and during my time working with students in the Reading & Writing Resource Center. Each time I have contacted the CARE team with a student concern, their response was prompt, thoughtful and thorough. Absolutely one of our most valuable resources here on Southeast.&rdquo;</p>
+				<p>
+					<strong>Emilee Taylor</strong>
+					<br/>
+					<em>Instructor of English, Southeast Campus</em>
+				</p>
+			</blockquote>
+			<hr/>
+			<blockquote>
+				<p>&ldquo;As a faculty member at Trinity River Campus, it has been my privilege to watch our CARE team grow through the years under the leadership of Adrian Rodriguez, VP of student development services. The CARE team has become a gift for Trinity River Campus and all of TCC. The team is collaborative and works across all sectors of our campus.</p>
+				<p>&ldquo;I have referred students to the CARE team who were in need of emotional and social support. All members from the top down helped me feel safe and the student in question valued. Mr. Rodriguez saw me immediately and explained the CARE team process while making sure I had support to best impact our overall student success.</p>
+				<p>&ldquo;Demesia Razo, coordinator of student support, contacted me quickly and spoke with the student in question. Ms. Razo has a wonderful attitude and relates to students in honest and supportive ways while affirming TCC guidelines for student conduct.</p>
+				<p>&ldquo;I would strongly recommend the utilization of the CARE team for all of TCC. When we observe students in crisis or coming close to the borderline, it is our responsibility to report to the CARE team. Having been supported by the CARE team, I know firsthand that this system works!&rdquo;</p>
+				<p>
+					<strong>Christi BlueFeather</strong>
+					<br/>
+					<em>Associate Professor of Reading, Trinity River Campus</em>
+				</p>
+			</blockquote>
+			<hr/>
 
 		<!-- /ouc:div -->
 
