@@ -4,25 +4,21 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Foundation: Tribute Gifts</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
-			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
-			</parameter>
+			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data"></parameter>
 
-			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
-			</parameter>
+			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page."></parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/26-tributes.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				White text on blue reads: Gifts, Grants, and Scholarships to the Tarrant County College Foundation. 2014
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,23 +33,813 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="Gifts given to the TCC Foundation in honor or in memory of a family member, friend, colleague or other individual." section="Metadata" />
+			<meta name="Author" content="" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
+
 
 	<content>
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+			<p>The following gifts were given to the TCC Foundation in honor or in memory of a family member, friend, colleague or other individual. The Foundation is grateful for these generous gifts in recognition of individuals who are special to our donors.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<hr/>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<h2>In Honor Of</h2>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<h3>Allison Randolph</h3>
+			<ul>
+				<li>Leslie Seggelink</li>
+			</ul>
+
+			<h3>Berta Gilbert</h3>
+			<ul>
+				<li>James Morton</li>
+			</ul>
+
+			<h3>Betty Curley-Jones</h3>
+			<ul>
+				<li>Jessica Curley-Rogers</li>
+			</ul>
+
+			<h3>Bryan Stewart and Family</h3>
+			<ul>
+				<li>Hector Menchaca</li>
+			</ul>
+
+			<h3>Caleb and Kathelyn Hamilton</h3>
+			<ul>
+				<li>Caroline Hamilton</li>
+			</ul>
+
+			<h3>Carolyn Ault</h3>
+			<ul>
+				<li>Carolyn Bass</li>
+			</ul>
+
+			<h3>Carolyn Robertson</h3>
+			<ul>
+				<li>Kaveh Azimi</li>
+			</ul>
+
+			<h3>Chat Stewart</h3>
+			<ul>
+				<li>Jeannene Stewart</li>
+			</ul>
+
+			<h3>Chris Judy</h3>
+			<ul>
+				<li>Robert Levy</li>
+			</ul>
+
+			<h3>David Wells</h3>
+			<ul>
+				<li>Rotary District 5790</li>
+				<li>Larry Anderson</li>
+				<li>Louise Appleman</li>
+				<li>Stacey Bryant</li>
+				<li>Elaine Caraway</li>
+				<li>Bill Coppola</li>
+				<li>Suzanne Cottraux</li>
+				<li>Larry Darlage</li>
+				<li>Julie Dennis</li>
+				<li>Leann Ellis</li>
+				<li>Tahita Fulkerson</li>
+				<li>Reginald Gates</li>
+				<li>Linda (Joy) Gates Black</li>
+				<li>Cynthia Harnest</li>
+				<li>Martha (Jane) Harper</li>
+				<li>Jennifer Hawkins</li>
+				<li>Cheryle Hays</li>
+				<li>Jerry Hutyra</li>
+				<li>Leslie Marneese Johnson</li>
+				<li>Harry Johnson</li>
+				<li>Peter Jordan</li>
+				<li>Linda Kelly</li>
+				<li>Elva LeBlanc</li>
+				<li>Jacqueline Maki</li>
+				<li>Timothy Marshall</li>
+				<li>Vicki Mason</li>
+				<li>Carlos Morales</li>
+				<li>Elizabeth Ramon</li>
+				<li>Angela Robinson</li>
+				<li>Toni Sandrick</li>
+				<li>Laurie Semple</li>
+				<li>Stephanie Sipho</li>
+				<li>Demetrice Thompson</li>
+				<li>Carrie Tunson</li>
+				<li>Troy Vaughn</li>
+				<li>Janet Younger</li>
+			</ul>
+
+			<h3>Deann Mitchell</h3>
+			<ul>
+				<li>Deborah Sanford-Wilson</li>
+			</ul>
+
+			<h3>Elizabeth Lutton</h3>
+			<ul>
+				<li>Lori Parker</li>
+			</ul>
+
+			<h3>Frank Testa</h3>
+			<ul>
+				<li>Lei Testa</li>
+			</ul>
+
+			<h3>Hap Lyda</h3>
+			<ul>
+				<li>Charles Overstreet</li>
+			</ul>
+
+			<h3>Mr. and Mrs. Horace Richbourg</h3>
+			<ul>
+				<li>Sherri Richbourg</li>
+			</ul>
+
+			<h3>Hurst City Council</h3>
+			<ul>
+				<li>Anna Holzer</li>
+			</ul>
+
+			<h3>Erma Johnson Hadle</h3>y
+			<ul>
+				<li>Lee Christie</li>
+				<li>Timothy Marshall</li>
+			</ul>
+
+			<h3>Erma Johnson Hadley; Reginald Gates</h3>
+			<ul>
+				<li>J. Chris Gavras</li>
+			</ul>
+
+			<h3>James Ardis Bell</h3>
+			<ul>
+				<li>Melody Fowler</li>
+			</ul>
+
+			<h3>Jane Harper; Peter Jordan; Lori Doddy</h3>
+			<ul>
+				<li>Floreen Henry</li>
+			</ul>
+
+			<h3>Jim and Terry Schrantz</h3>
+			<ul>
+				<li>Hector Menchaca</li>
+			</ul>
+
+			<h3>Judith Carrier</h3>
+			<ul>
+				<li>Elizabeth Carrington</li>
+				<li>Michael Cinatl</li>
+				<li>Mary Cinatl</li>
+				<li>Lien Hua</li>
+				<li>Tammy Tennes</li>
+				<li>Virginia Wicher</li>
+			</ul>
+
+			<h3>Kayoko Higashida</h3>
+			<ul>
+				<li>The Capital Group Companies Charitable Foundation</li>
+			</ul>
+
+			<h3>Kearn Lacey</h3>
+			<ul>
+				<li>Diane Lacey</li>
+			</ul>
+
+			<h3>Lt. Kenneth Lee; Bill Coppola</h3>
+			<ul>
+				<li>Donna Faubion</li>
+			</ul>
+
+			<h3>Larry Darlage</h3>
+			<ul>
+				<li>Tramaine Anderson</li>
+				<li>Mary Buinger</li>
+				<li>Morene Chiarella</li>
+				<li>Shalyn Clark</li>
+				<li>Eddye Gallagher</li>
+				<li>Natalie Guiter</li>
+				<li>Cheryl Hamilton</li>
+				<li>Lillian Hansen</li>
+				<li>Erma Johnson Hadley</li>
+				<li>Mishuna MacDonald</li>
+				<li>Jean Maines</li>
+				<li>A'Isha Malone</li>
+				<li>Fonda Martin</li>
+				<li>Elizabeth Mullins</li>
+				<li>Angela Pettit</li>
+				<li>Diane Pierce</li>
+				<li>Leigh-Anne Regenold</li>
+				<li>Shewanda Riley</li>
+				<li>Elizabeth (Lisa) Self</li>
+				<li>Laurie Semple</li>
+				<li>Karen Shelton</li>
+				<li>Mary Alice Smith</li>
+				<li>Gary Smith</li>
+				<li>Ann L. Triplett</li>
+				<li>Mary Williams</li>
+				<li>Linda Wright</li>
+			</ul>
+
+			<h3>Larry Darlage; Ardis Bell</h3>
+			<ul>
+				<li>J. Randy Moresi</li>
+			</ul>
+
+			<h3>Lisa Benedetti</h3>
+			<ul>
+				<li>Carl Scherrieb</li>
+			</ul>
+
+			<h3>NE President's Cabinet</h3>
+			<ul>
+				<li>Larry Darlage</li>
+				<li>Magdalena de la Teja</li>
+				<li>Linda Wright</li>
+			</ul>
+
+			<h3>NE Presisdent's Cabinet; Brian Barrett</h3>
+			<ul>
+				<li>Gary Smith</li>
+			</ul>
+
+			<h3>Peggy Ford</h3>
+			<ul>
+				<li>Teresa Evans</li>
+			</ul>
+			<h3>Roy Lee Anders;	Anita Barrett</h3>
+			<ul>
+				<li>Bonnie Soyster</li>
+			</ul>
+
+			<h3>Sharon Maxwell</h3>
+			<ul>
+				<li>Hector Menchaca</li>
+			</ul>
+
+			<h3>Sheila Gonzales; Rosy Nunez</h3>
+			<ul>
+				<li>Hector Menchaca</li>
+			</ul>
+
+			<h3>Tahilta Fulkerson; Louise Appleman</h3>
+			<ul>
+				<li>Ken Devero</li>
+			</ul>
+
+			<h3>TCC Board of Trustees and CELT</h3>
+			<ul>
+				<li>Erma Johnson Hadley</li>
+			</ul>
+
+			<h3>TCC-DSS</h3>
+			<ul>
+				<li>Kathleen McCann</li>
+			</ul>
+
+			<h3>Timothy Marshall; Kim Beatty</h3>
+			<ul>
+				<li>Educause</li>
+			</ul>
+
+			<h3>Tracy Joseph Miller</h3>
+			<ul>
+				<li>Carl Scherrieb</li>
+			</ul>
+
+			<h3>Wanda Hill</h3>
+			<ul>
+				<li>Molly Floyd</li>
+			</ul>
+
+			<hr/>
+
+			<h2>In Memory Of</h2>
+
+			<h3>Albert Guttman</h3>
+			<ul>
+				<li>Sorin Guttman</li>
+			</ul>
+
+			<h3>Alice I. Walker</h3>
+			<ul>
+				<li>Sandra Walker</li>
+			</ul>
+
+			<h3>Alice Walker</h3>
+			<ul>
+				<li>Karen McNeill Parsons</li>
+			</ul>
+
+			<h3>Allen Erwin</h3>
+			<ul>
+				<li>Tahita Fulkerson</li>
+				<li>Peter Jordan</li>
+			</ul>
+
+			<h3>Allyene Blair</h3>
+			<ul>
+				<li>Carolyn Bass</li>
+			</ul>
+
+			<h3>Anamaria Shaw</h3>
+			<ul>
+				<li>Larry Story</li>
+			</ul>
+
+			<h3>Ariel Hunter Chriss</h3>
+			<ul>
+				<li>Faye Watson</li>
+			</ul>
+
+			<h3>Armeila Warren-Law</h3>
+			<ul>
+				<li>Eugenia Homeyer</li>
+			</ul>
+
+			<h3>Arnold Hudson</h3>
+			<ul>
+				<li>Carolyn Bass</li>
+			</ul>
+
+			<h3>Barbara Maxwell</h3>
+			<ul>
+				<li>Eugenia Homeyer</li>
+			</ul>
+			<h3>Ben Gonzales</h3>
+			<ul>
+				<li>Sheila Gonzales</li>
+			</ul>
+
+			<h3>Bessie M. Lee</h3>
+			<ul>
+				<li>Dennis Lee</li>
+			</ul>
+
+			<h3>Bill Westmoreland</h3>
+			<ul>
+				<li>Wilna Gillespie</li>
+			</ul>
+
+			<h3>Blake O'Neal</h3>
+			<ul>
+				<li>Cindy O'Neal</li>
+			</ul>
+
+			<h3>Bob Bolen</h3>
+			<ul>
+				<li>Christina Judge</li>
+				<li>Joe McIntosh</li>
+			</ul>
+
+			<h3>Carol J. Miller</h3>
+			<ul>
+				<li>Jackie Baggett</li>
+			</ul>
+
+			<h3>Chappell Hope</h3>
+			<ul>
+				<li>Deborah Meers</li>
+			</ul>
+
+			<h3>Charles Brinkley</h3>
+			<ul>
+				<li>Tarrant County College District</li>
+			</ul>
+
+			<h3>Charles E. Driver</h3>
+			<ul>
+				<li>Kirk Driver</li>
+			</ul>
+
+			<h3>Dr. Charles McKinney</h3>
+			<ul>
+				<li>Floreen Henry</li>
+				<li>Charles McKinney</li>
+			</ul>
+
+			<h3>Charles Schusler</h3>
+			<ul>
+				<li>Leann Ellis</li>
+			</ul>
+
+			<h3>Charley Harnest</h3>
+			<ul>
+				<li>Cynthia Harnest</li>
+			</ul>
+
+			<h3>Christopher Farrier</h3>
+			<ul>
+				<li>Xiujun Farrier</li>
+			</ul>
+
+			<h3>Daisy Mae Jackson</h3>
+			<ul>
+				<li>Anita Biber</li>
+				<li>Leann Ellis</li>
+				<li>Laurie Groover</li>
+				<li>Kenneth Swaim</li>
+				<li>Theresa Tryon</li>
+			</ul>
+
+			<h3>Daphne Ianthe Jordan</h3>
+			<ul>
+				<li>Peter Jordan</li>
+			</ul>
+
+			<h3>David Loranzo Sanchez</h3>
+			<ul>
+				<li>Mary Anders</li>
+			</ul>
+
+			<h3>David Wells father,	Allen Erwin</h3>
+			<ul>
+				<li>Bill Coppola</li>
+				<li>Larry Darlage</li>
+				<li>Elva LeBlanc</li>
+			</ul>
+
+			<h3>Deborah Denise Honea-Long</h3>
+			<ul>
+				<li>Peter Jordan</li>
+			</ul>
+
+			<h3>Diane Turner</h3>
+			<ul>
+				<li>Robin Rhyand</li>
+			</ul>
+
+			<h3>Don G. Leach</h3>
+			<ul>
+				<li>Lori Leach</li>
+			</ul>
+
+			<h3>Donald Volding</h3>
+			<ul>
+				<li>Robert Levy</li>
+				<li>Cindy O'Neal</li>
+			</ul>
+
+			<h3>Donna Lawlis</h3>
+			<ul>
+				<li>Andrea Galante</li>
+			</ul>
+
+			<h3>Dorothy S. Blue</h3>
+			<ul>
+				<li>TCC Nursing Department</li>
+			</ul>
+
+			<h3>E. Durwood Wheatley</h3>
+			<ul>
+				<li>Leann Ellis</li>
+			</ul>
+
+			<h3>Eli Goodson</h3>
+			<ul>
+				<li>Linda Buckingham</li>
+			</ul>
+
+			<h3>Emily Lunday Garrett</h3>
+			<ul>
+				<li>Catherine Brown</li>
+				<li>Thomas Cantrill</li>
+				<li>Marjean Kitts</li>
+				<li>Patricia Mhoon</li>
+				<li>Maxwell Newcom</li>
+			</ul>
+
+			<h3>Emily Nail Garrett</h3>
+			<ul>
+				<li>Peter Jordan</li>
+			</ul>
+
+			<h3>Faye Paddyaker</h3>
+			<ul>
+				<li>Marjeanna Burge</li>
+			</ul>
+
+			<h3>Frances Gordon Appleman</h3>
+			<ul>
+				<li>Joe McIntosh</li>
+				<li>Elaine Petrus</li>
+			</ul>
+
+			<h3>Frank Ayers</h3>
+			<ul>
+				<li>Curtis Nash</li>
+				<li>Michael Turner</li>
+			</ul>
+
+			<h3>Garrett Mills</h3>
+			<ul>
+				<li>Valerie Mills</li>
+			</ul>
+
+			<h3>Georgia Kaspar</h3>
+			<ul>
+				<li>Tarrant County College District</li>
+				<li>Karen McNeill Parsons</li>
+				<li>Leigh-Anne Regenold</li>
+			</ul>
+
+			<h3>Gloria J. Moore</h3>
+			<ul>
+				<li>Sharon Moore</li>
+			</ul>
+
+			<h3>Grcae Sadler</h3>
+			<ul>
+				<li>Christina Judge</li>
+				<li>Joe McIntosh</li>
+			</ul>
+
+			<h3>Henry Kologe; Biery	Revocable Living Trust</h3>
+			<ul>
+				<li>The Biery Revocable	Living Trust</li>
+			</ul>
+
+			<h3>Herman Crow</h3>
+			<ul>
+				<li>Curtis Deaver</li>
+				<li>Doris Jones</li>
+				<li>Lawrence Baker</li>
+			</ul>
+
+			<h3>Herman Crow; Kenneth Pate</h3>
+			<ul>
+				<li>Robert Downtain</li>
+			</ul>
+
+			<h3>Herman Schaffer</h3>
+			<ul>
+				<li>Joe McIntosh</li>
+			</ul>
+
+			<h3>Ingrid Barklis</h3>
+			<ul>
+				<li>Margaret Lutton</li>
+			</ul>
+
+			<h3>Irene Clinkscale</h3>
+			<ul>
+				<li>Donald Stratton</li>
+			</ul>
+
+			<h3>Irving Wall</h3>
+			<ul>
+				<li>Sharon Wettengel</li>
+			</ul>
+
+			<h3>J.D. Quesenbury</h3>
+			<ul>
+				<li>Kathryn Quesenbury</li>
+			</ul>
+
+			<h3>Jack Buckley</h3>
+			<ul>
+				<li>James Hood</li>
+			</ul>
+
+			<h3>Jean Miller</h3>
+			<ul>
+				<li>Yvonne McCoy</li>
+			</ul>
+
+			<h3>Jim Bolen</h3>
+			<ul>
+				<li>Quanna Anglin</li>
+			</ul>
+
+			<h3>Jimmy Perkins</h3>
+			<ul>
+				<li>Linda Wright</li>
+			</ul>
+
+			<h3>Joe Grimaldo</h3>
+			<ul>
+				<li>Rigoberto Soto</li>
+			</ul>
+
+			<h3>John C. Stevens</h3>
+			<ul>
+				<li>Nancy Stevens</li>
+			</ul>
+
+			<h3>Josephine Reid</h3>
+			<ul>
+				<li>Sharon Covington</li>
+			</ul>
+
+			<h3>Judith Carrier</h3>
+			<ul>
+				<li>Nancy Saenz</li>
+			</ul>
+
+			<h3>Karen Cameron</h3>
+			<ul>
+				<li>Carolyn Bass</li>
+			</ul>
+
+			<h3>Kathy Barnett</h3>
+			<ul>
+				<li>Debra Price</li>
+			</ul>
+
+			<h3>Kenneth Pate</h3>
+			<ul>
+				<li>Linda Wright</li>
+			</ul>
+
+			<h3>L.A. and Ora Faye Caraway</h3>
+			<ul>
+				<li>Elaine Caraway</li>
+			</ul>
+
+			<h3>Laura E. Cumbie</h3>
+			<ul>
+				<li>Jacqueline Maki</li>
+			</ul>
+
+			<h3>Lester Allen Kilpatrick, Sr.; James	(Jim) McCurdy</h3>
+			<ul>
+				<li>Leann Ellis</li>
+			</ul>
+
+			<h3>Major Eugene Miller</h3>
+			<ul>
+				<li>Terry Jones</li>
+				<li>Lita Campbell</li>
+				<li>Jessica Cole</li>
+				<li>Christine Lohrke</li>
+				<li>Carswell Retired Officers Wives Club</li>
+			</ul>
+
+			<h3>Marguerite "Peg" Lorentzen; Florence Lorentzen</h3>
+			<ul>
+				<li>Joe McIntosh</li>
+			</ul>
+
+			<h3>Marian Cantrell</h3>
+			<ul>
+				<li>Nelda Cook</li>
+			</ul>
+
+			<h3>Marlise Kupper</h3>
+			<ul>
+				<li>Nancy Kupper</li>
+			</ul>
+
+			<h3>Marvin Jennings</h3>
+			<ul>
+				<li>Vaughn Groom</li>
+			</ul>
+
+			<h3>Mary Gregory</h3>
+			<ul>
+				<li>Gary Smith</li>
+				<li>Linda Wright</li>
+			</ul>
+
+			<h3>Mary Holley Price</h3>
+			<ul>
+				<li>Elise Price</li>
+				<li>David (Joel) Price</li>
+			</ul>
+
+			<h3>Michael Edwin Brooks, Jr.</h3>
+			<ul>
+				<li>Eric Lyke</li>
+				<li>Sherry Branch-Breed</li>
+				<li>Ralph Brooks</li>
+				<li>Mattie Compton</li>
+				<li>Erma Johnson Hadley</li>
+				<li>Johnny Self</li>
+				<li>Ellawese Smith</li>
+				<li>Paulette Turner</li>
+				<li>Dionne Bagsby Jones</li>
+				<li>Bertie Carrington</li>
+				<li>Vankat Namburu</li>
+				<li>Althea Alexis</li>
+				<li>Norma Roby</li>
+				<li>Bob Ray Sanders</li>
+				<li>Viney Chandler</li>
+			</ul>
+
+			<h3>Harold Nolte, Sr.</h3>
+			<ul>
+				<li>Annette Nolte</li>
+			</ul>
+
+			<h3>Dorothy Schimelpfenig</h3>
+			<ul>
+				<li>Robert Levy</li>
+			</ul>
+
+			<h3>Nancy Moher</h3>
+			<ul>
+				<li>Mary Crawford</li>
+				<li>Doug Newsom</li>
+			</ul>
+
+			<h3>Peggy Van Fleet</h3>
+			<ul>
+				<li>Thay Collis</li>
+			</ul>
+
+			<h3>Pink Fluton</h3>
+			<ul>
+				<li>Gail Bryeans</li>
+			</ul>
+
+			<h3>Ray and Corky Smith; Harold and Rosie Yoder</h3>
+			<ul>
+				<li>Janice Yoder Smith</li>
+			</ul>
+
+			<h3>Robert A Davis</h3>
+			<ul>
+				<li>Larry Ross</li>
+			</ul>
+
+			<h3>Sam Krhovjak</h3>
+			<ul>
+				<li>David Wells</li>
+			</ul>
+
+			<h3>Thelma Davis Chansler</h3>
+			<ul>
+				<li>Erma Johnson Hadley</li>
+			</ul>
+
+			<h3>Theodore Drake</h3>
+			<ul>
+				<li>Lynda de los Santos</li>
+			</ul>
+
+			<h3>Tom and Sue Stover</h3>
+			<ul>
+				<li>Delta Theta Tau Sorority</li>
+				<li>Arthur Berg</li>
+				<li>Eddye Gallagher</li>
+				<li>Glenn Graff</li>
+				<li>Patricia Laughlin</li>
+				<li>Mary Marten</li>
+				<li>Patricia McCafferty</li>
+				<li>Joyce Melton</li>
+				<li>Margaret Queen</li>
+				<li>Margaret Queen</li>
+				<li>Philip Queen</li>
+				<li>Alton Rye</li>
+				<li>Jo-Ann Zimmerman</li>
+			</ul>
+
+			<h3>Van Parker</h3>
+			<ul>
+				<li>Susan Webb</li>
+			</ul>
+
+			<h3>Vernon, Voncent; Jackie Moore</h3>
+			<ul>
+				<li>Regina Moore</li>
+			</ul>
+
+			<h3>Victoria Anthony's mother</h3>
+			<ul>
+				<li>TCC Nursing Department</li>
+			</ul>
+
+			<h3>Virginia Chandlee's mother</h3>
+			<ul>
+				<li>TCC Nursing Department</li>
+			</ul>
+
+			<h3>Wanda Hill</h3>
+			<ul>
+				<li>Howard Fuller</li>
+				<li>Carolyn Robertson</li>
+				<li>Melanie Teeters</li>
+			</ul>
+
+			<h3>William Bishop</h3>
+			<ul>
+				<li>Jackie Baggett</li>
+			</ul>
+
+			<h3>William Ward</h3>
+			<ul>
+				<li>Toni Sandrick</li>
+			</ul>
+
+			<h3>Helen O. Minor</h3>
+			<ul>
+				<li>Jacquelyn Minor</li>
+			</ul>
 
 		<!-- /ouc:div -->
 	</content>

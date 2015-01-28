@@ -4,25 +4,23 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Diversity and Inclusion</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
 			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
+				Bringing Success Within Reach
 			</parameter>
 
-			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
-			</parameter>
+			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page."></parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/8-diversity.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				A teacher stands amid her students and gestures towards the front of the room
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +35,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="TCC is bringing success within reach through an increased commitment to diversity and inclusion." section="Metadata" />
+			<meta name="Author" content="" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,13 +45,27 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+			<p>Student success is a top priority at Tarrant County College. An important aspect of that is an unwavering commitment to diversity and inclusion. Enter Shani Barrax Moore, chief diversity and inclusion officer for the District.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<p>After joining TCC in 2012, Moore (pictured below) developed and distributed to every employee and student a survey to evaluate perspectives about accessibility; career goals; holidays; financial resources; conflicts; the TCC interview process and student awareness. More than 5,700 people responded.</p>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<p>&ldquo;Comprehensive data such as this gives us a picture of where we are on diversity and inclusion,&rdquo; said Moore. She used the data to create Foundations of Diversity and Inclusion, a six-module training and development series designed to facilitate personal and institutional awareness towards creating a more inclusive environment at TCC.</p>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<p>The program is open to any TCC faculty or staff member interested in being a change leader. Through the classes, participants discuss concepts such as bias awareness, socialization, inclusive language and privilege. Participants have praised the training, expressing interest in upper management receiving this training. To that end, Moore has created a condensed version for the Chancellor’s Executive Leadership Team (CELT). &ldquo;For this to work on the ground level, support from executive leadership is critical, so they can understand this,&rdquo; said Moore.</p>
+
+			<p>Moore also used survey data to develop a multi-year strategic plan to increase diversity and inclusion awareness at the District and campus levels. &ldquo;To educate, engage, and empower TCC students, faculty and staff to promote and sustain a culture of inclusion where individuality and cultural humility are embraced and valued&rdquo; is the plan’s vision statement.</p>
+
+			<p>Diversity and inclusion also are important elements of Vision 2015, TCC’s five-year strategic plan through 2015. Goal 2 reads: &ldquo;Ensure Affordability, Accessibility and Diversity Reflective of the Community.&rdquo;</p>
+
+			<p>To facilitate this vision, Diversity and Inclusion Councils were created at each campus and at the District level and include a cross section of students, faculty and staff. Campus leadership selected council members based on their roles/function, experience and what they can contribute to the overall objective.</p>
+
+			<p>Student contributions represent a critical component of this important work. &ldquo;I think the students are unaware how much their input matters to the council,&rdquo; said South campus council member and Coordinator of Graphic Services Monica Lea. &ldquo;They offer insights into the obstacles they face and what we can do as a council to resolve those issues.&rdquo;</p>
+
+			<p>Associate Vice Chancellor Jacqueline Maki, from the Office of Grants Development and Compliance, agrees. &ldquo;We are reaching out to more students, especially those not traditionally in the majority at TCC, not just to recruit them but also to support their staying in school, getting good grades completing their certificates and degrees.&rdquo;</p>
+
+			<p>Both Lea and Maki see positive changes happening because of the work TCC is doing on diversity and inclusion. &ldquo;More people are considering diversity and inclusion as part of the hiring process as part of selections and as part of professional development,&rdquo; said Maki. &ldquo;At the South Campus, I have noticed more faculty and staff wanting to be a part of D&I,&rdquo; said Lea. &ldquo;They want information to assist them when discussing sensitive issues and help them learn more about our goals and initiatives.&rdquo;</p>
+
+			<p>&ldquo;We have only barely begun this important work,&rdquo; said Maki. &ldquo;We need to raise the visibility to more people of what a strong, inclusive community can be and do &mdash; together.&rdquo;</p>
 
 		<!-- /ouc:div -->
 	</content>

@@ -4,25 +4,21 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Foundation: Donor Story</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
-			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
-			</parameter>
+			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">Leaving Our Footprints</parameter>
 
-			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
-			</parameter>
+			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">Renee Mitcham</parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/23-donor.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				Jacquelyn Minor
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +33,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="Working with the TCC Foundation, Jacquelyn Minor developed a scholarship that bears both her name and that of her children." section="Metadata" />
+			<meta name="Author" content="Renee Mitcham" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,13 +43,25 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+		<p>Poised and smiling, Jacquelyn Minor, associate professor of reading at Tarrant County College’s Southeast campus, warmly describes some strong TCC professors whose passion for teaching and learning inspired her. &ldquo;I can’t say enough about the powerful influence that professors Carol Jackson, Sylvia Vardell and Karen Nelson had on my decision to become an educator. Their excitement about learning was contagious! As I sat in their classes, I saw myself one day standing where they stood, and began to define my own dreams.&rdquo; Now, Minor works to help others achieve theirs.</p>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+		<p>As the donor of the Minor-Warmsley &ldquo;Achieving My Dream&rdquo; Scholarship, Minor has a personal history of overcoming limitations. &ldquo;My parents told me college wasn’t affordable without a scholarship, so I knew early on I had to work hard to reach my academic goals.&rdquo; Her efforts paid off when she became the first black female awarded a presidential scholarship at Austin College in Sherman, Texas.</p>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+		<p>Continuing to set the bar high, Minor pursued her doctoral degree while teaching reading courses full-time at TCC and teacher education courses part-time at the University of Texas at Arlington. Her life took a turn when she became a single working mother of three. &ldquo;Time was limited, debt was mounting and my children’s lives became more demanding. Earning my doctorate suddenly became very difficult.&rdquo; Minor took advantage of a renewable award for educators through Capella University and pushed forward to achieve her goal.</p>
+
+		<p>These experiences fueled her desire to design a way for others – &ldquo;especially goal-oriented young women who find themselves suddenly juggling obstacles–to have a ‘leg up’ when options are slim,&rdquo; she said. Working with the TCC Foundation, Minor developed a scholarship that bears both her name and that of her children.</p>
+
+		<blockquote>
+			<p>&ldquo;It was important to also create a legacy for my children, where they are connected to our city, our community and to TCC. It’s a strong lesson about investing in others,&rdquo;</p>
+			<p class="attribution">Jacquelyn Minor</p>
+		</blockquote>
+
+		<p>Minor's children, ages 8, 12 and 14, contribute to the scholarship with their own money earned for good grades. Liz Sisk, donor relations officer for the Tarrant County College Foundation, said she admires the inclusion of Minor’s children in the process of establishing this valuable scholarship. &ldquo;What great life lessons her children are learning! This is a tremendous scholarship for so many reasons,&rdquo; Sisk said.</p>
+
+		<p>Supported by relationships forged at TCC Southeast Campus, as well as valued encounters Districtwide, Minor praised the TCC philosophy. &ldquo;TCC continuously focuses on removing barriers to student success and creating an environment where students can attain their goals.&rdquo;</p>
+
+		<p>&ldquo;I’ve witnessed many success stories at TCC: students overcoming multiple obstacles at once. Each story is about a real person, their challenges and their supporters.&rdquo; She added, &ldquo;Around 80 percent of TCC students receive financial assistance, so a scholarship fund was a logical choice.&rdquo; The Minor-Warmsley Scholarship awards $500 per semester upon meeting and maintaining certain criteria, including enrollment with the intent to pursue an associate degree or certificate of completion, carrying a full course load and maintaining a 3.3 GPA.</p>
 
 		<!-- /ouc:div -->
 	</content>
