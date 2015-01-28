@@ -4,25 +4,23 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Online, Anytime!</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
-			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
-			</parameter>
+			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data"></parameter>
 
 			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
+				Rhonda Aghamalian
 			</parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/5-e-learning.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				A student holds a mug of coffee and works on a laptop
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +35,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="The hassles of traffic, parking and clean clothes for class are concerns of the past for a growing number of students in TCC's online program, eLearning." section="Metadata" />
+			<meta name="Author" content="Rhonda Aghamalian" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
@@ -47,13 +45,29 @@
 
 		<!-- ouc:div label="article-contents" group="Everyone" button="817" break="break" -->
 		<!-- ouc:editor csspath="/_resources/ou/editor/mag-article.css" width="1020" / -->
-			<p>Article contents go here! Remember to use the <strong>snippets</strong> function to insert such things as images (using the <em>figure snippet</em>), tables, and such.</p>
+			<p>The hassles of traffic, parking and clean clothes for class are concerns of the past for a growing number of TCC students who earn credit – and sometimes their entire degree – via TCC’s online program, known as eLearning.</p>
 
-			<p>Use <strong>&lt;strong&gt;</strong> or <em>&lt;em&gt;</em> tags for <strong>bold</strong> or <em>italic</em>. Use ordered or unordered lists as needed.</p>
+			<p>The College offers more than 250 credit and continuing education courses online and, according to the program’s administrators, the online experience is &ldquo;intense.&rdquo;</p>
 
-			<p>Use the <strong>Mag-BlockQuote</strong> or <strong>Mag-BlockQuote-Citation</strong> snippets to insert pullquotes.</p>
+			<p>&ldquo;The courses follow the same schedule and rigor as face-to-face classes and are taught by knowledgeable and committed TCC instructors,&rdquo; explained Carlos Morales, president of TCC Connect. &ldquo;They’re comprised of modules and lectures augmented by multimedia, making the teaching and learning process richer.&rdquo;</p>
 
-			<p>Please do not use whitespace (empty paragraphs) to nudge the layout. If there is a serious issue with the layout of a particular page, let a web designer know.</p>
+			<p>The intensity of the experience stems from the level of discipline required for online students to be successful. Although online classes have some self-paced elements – students may have opportunities to review content multiple times, for example, in ways that aren’t available in traditional classes – the overall online experience is driven by the calendar.</p>
+
+			<p>&ldquo;Students often incorrectly perceive that eLearning courses are independent study without specific assignments, due dates and activities,&rdquo; said Morales. &ldquo;But the fact is that you have to be an independent, motivated learner with excellent time management and organization skills.&rdquo;</p>
+
+			<p>Nearly 21,000 students are enrolled in at least one eLearning credit course this semester, which represents nearly half of the College’s for-credit student population.</p>
+
+			<p>&ldquo;The benefits of online learning are numerous,&rdquo; said Kathy Burks, manager of outreach and student services for TCC Connect. &ldquo;Online courses are excellent options for students with family responsibilities, working students, students who live in remote areas or students with disabilities.&rdquo;</p>
+
+			<p>For would-be online students who worry that the experience may be isolating or tedious, Burks suggests taking advantage of the demo class offered on the eLearning website.</p>
+
+			<p>&ldquo;Instructors use videos and all kinds of things that make the experience interactive,&rdquo; Burks said. &ldquo;And we have instant messenger and chalkboards that are wonderful for student discussion.&rdquo;</p>
+
+			<p>Most eLearning courses happen exclusively online, but there are some courses that have a few &ldquo;on campus&rdquo; requirements, such as participation in science labs or the administration of an exam. The tuition fees and registration process are the same for online courses as they are for traditional classes, with one exception. Prior to enrolling in an online course for the first time, students are required to pass an online assessment that measures the student’s technical, reading and keyboarding skills.</p>
+
+			<p>&ldquo;The readiness assessment helps us find out whether or not the student has what it takes to be successful in online courses,&rdquo; Burks said.</p>
+
+			<p>The best strategy for online students? &ldquo;Schedule your class time when it&rsquo;s convenient for you, but treat it like a face-to-face class,&rdquo; said Burks. &ldquo;If your time is at 10 p.m. after the kids are put to bed, stick to it. Online classes are flexible, but they can’t happen &lsquo;when you can get to it&rsquo; or you’ll get behind.&rdquo;</p>
 
 		<!-- /ouc:div -->
 	</content>
