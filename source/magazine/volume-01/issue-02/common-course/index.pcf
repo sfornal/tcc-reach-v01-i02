@@ -18,7 +18,7 @@
 			</parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/header/7-common-course.jpg
+				/images/magazine/volume-01/issue-02/header/7-common-course.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">

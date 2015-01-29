@@ -4,25 +4,23 @@
 <document xmlns:ouc="http://omniupdate.com/XSL/Variables">
 
 	<!-- ouc:properties -->
-		<title>Title</title>
+		<title>Welcome Aboard</title>
 	<!-- /ouc:properties -->
 
 	<config>
 		<!-- ouc:properties -->
 			<parameter name="article_subhead" type="text" group="Everyone" prompt="Please enter a subhead for the article. This appears below the main title." alt="The subhead should be provided by the original article author." section="Article Data">
-				Subtitle
+				Meet Allen Goben, Northeast Campus President
 			</parameter>
 
-			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page.">
-				Author
-			</parameter>
+			<parameter name="article_byline" type="text" group="Everyone" prompt="The full name of the article author." alt="Please double-check your spelling; this appears on the page."></parameter>
 
 			<parameter name="article_header_image" type="filechooser" group="Everyone" prompt="Which image should be used for the magazine cover?" alt="Specify the image you wish to include." section="Article Header Image">
-				http://www.tccd.edu/images/magazine/volume-01/issue-02/headers/image.jpg
+				/images/magazine/volume-01/issue-02/header/4-goben.jpg
 			</parameter>
 
 			<parameter name="article_header_image_descr" type="text" group="Everyone" prompt="Please describe the chosen image in a few words." alt="This is the accessibility description and it MUST be included.">
-				HeaderAlt
+				Alan Goben, Ed. D.
 			</parameter>
 
 			<parameter name="volume_name" type="text" group="Everyone" prompt="What volume is this article in?" alt="Specify as Volume X, where X is the volume number." section="Volume Information">
@@ -37,8 +35,8 @@
 
 	<!-- ouc:properties -->
 		<metadata>
-			<meta name="Description" content="Description" section="Metadata" />
-			<meta name="Author" content="Author" />
+			<meta name="Description" content="Allen Goben takes helm at TCC’s Northeast Campus, bringing more than 25 years of experience in education to this role." section="Metadata" />
+			<meta name="Author" content="" />
 			<meta name="Keywords" content="TCC, Reach, Magazine" />
 		</metadata>
 	<!-- /ouc:properties -->
